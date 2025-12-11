@@ -1,0 +1,178 @@
+{
+    "invoice_type": "PROFORMA INVOICE",
+    "invoice_details": {
+        "invoice_number": "0090354306",
+        "serial_number": "90354306",
+        "order_number": "4200361120",
+        "irn_number": null,
+        "ref_number_sh": null,
+        "invoice_date": "04.12.2025",
+        "order_date": "04.12.2025",
+        "ref_date": null,
+        "lr_number": null,
+        "lr_date": null,
+        "transporter": null,
+        "eway_bill_no": null,
+        "eway_expiry_date": null
+    },
+    "seller_details": {
+        "name": "GENO Pharmaceuticals Pvt. Ltd.",
+        "cfa": "DAS DRUGS PVT. LTD.",
+        "address": "C1/14, Lower Ground Floor, Transport Nagar, Lucknow-226012, Uttar Pradesh",
+        "state_code": "09",
+        "phone": "0522-4041623",
+        "email": "genolucknow@gmail.com",
+        "gst_number": "09AAACG5887G1Z9",
+        "drug_license_no": "UP3220B004804",
+        "food_license_no": "UP3221B004785",
+        "registered_office": {
+            "address": "TIVIM INDUSTRIAL ESTATE, KARASWADA, MAPUSA-403526",
+            "pan_no": "AAACG5887G",
+            "cin_no": "U24239GA1975PTC000250",
+            "phone": "0832-2257216",
+            "website": "www.genopharma.com",
+            "fssai_number": "10613001000359"
+        }
+    },
+    "receiver_details": {
+        "billed_to": {
+            "name": "TAYAL AGENCIES",
+            "address": "123 LGF BHARAT NEW MEDICINE MARKET, LATOUCH ROAD, LUCKNOW - 226018",
+            "state": "09(Uttar Pradesh)",
+            "pan_no": "ADOPA5654P",
+            "phone": "5224048597",
+            "gst_no": "09ADOPA5654P1ZW",
+            "drug_license_no": "UP3220B002862",
+            "food_license_no": "UP3221B002846",
+            "fssai_number": "12718066000201"
+        },
+        "shipped_to": {
+            "name": "TAYAL AGENCIES",
+            "address": "123 LGF BHARAT NEW MEDICINE MARKET, LATOUCH ROAD, LUCKNOW - 226018",
+            "state": "09(Uttar Pradesh)",
+            "pan_no": "ADOPA5654P",
+            "phone": "5224048597",
+            "gst_no": "09ADOPA5654P1ZW",
+            "drug_license_no": "UP3220B002862",
+            "food_license_no": "UP3221B002846",
+            "fssai_number": "12718066000201"
+        }
+    },
+    "line_items": [
+        {
+            "sr_no": 1,
+            "product_description": "VERTIDOM TABLETS 10S",
+            "hsn_code": "30049039",
+            "batch": "GV025003",
+            "mfg_by": "GENO",
+            "exp_date": "May 2028",
+            "mfg_date": "Jun 2025",
+            "billed_qty": {
+                "value": 50,
+                "unit": "STP"
+            },
+            "rate": 84.38,
+            "total": 4219.0,
+            "discount_percentage": 0.0,
+            "discount_amount": 0.0,
+            "cash_discount": 84.38,
+            "taxable_amount": 4134.62,
+            "ptr": 93.75,
+            "mrp": 123.05,
+            "cgst_percentage": 2.5,
+            "cgst_amount": 103.37,
+            "sgst_percentage": 2.5,
+            "sgst_amount": 103.37,
+            "igst_percentage": 0.0,
+            "igst_amount": 0.0
+        },
+        {
+            "sr_no": 2,
+            "product_description": "VERTIGON FORTE TABLETS 10S",
+            "hsn_code": "30049039",
+            "batch": "MV035003",
+            "mfg_by": "CMPL",
+            "exp_date": "Jul 2028",
+            "mfg_date": "Aug 2025",
+            "billed_qty": {
+                "value": 100,
+                "unit": "STP"
+            },
+            "rate": 74.9,
+            "total": 7490.0,
+            "discount_percentage": 0.0,
+            "discount_amount": 0.0,
+            "cash_discount": 149.8,
+            "taxable_amount": 7340.2,
+            "ptr": 83.22,
+            "mrp": 109.22,
+            "cgst_percentage": 2.5,
+            "cgst_amount": 183.5,
+            "sgst_percentage": 2.5,
+            "sgst_amount": 183.5,
+            "igst_percentage": 0.0,
+            "igst_amount": 0.0
+        },
+        {
+            "sr_no": 3,
+            "product_description": "VERTIGON TABLETS 20's (WP)",
+            "hsn_code": "30049039",
+            "batch": "MV115017",
+            "mfg_by": "CMPL",
+            "exp_date": "Jul 2028",
+            "mfg_date": "Aug 2025",
+            "billed_qty": {
+                "value": 50,
+                "unit": "STP"
+            },
+            "rate": 83.9,
+            "total": 4195.0,
+            "discount_percentage": 0.0,
+            "discount_amount": 0.0,
+            "cash_discount": 83.9,
+            "taxable_amount": 4111.1,
+            "ptr": 93.22,
+            "mrp": 122.35,
+            "cgst_percentage": 2.5,
+            "cgst_amount": 102.78,
+            "sgst_percentage": 2.5,
+            "sgst_amount": 102.78,
+            "igst_percentage": 0.0,
+            "igst_amount": 0.0
+        }
+    ],
+    "totals": {
+        "net_product_amount": 15904.0,
+        "discount_amount": 0.0,
+        "cash_discount_total": 318.08,
+        "taxable_amount_total": 15585.92,
+        "cgst_total": 389.65,
+        "sgst_total": 389.65,
+        "igst_total": 0.0,
+        "rounding_off": -0.22,
+        "net_amount": 16365.0,
+        "amount_in_words": "SIXTEEN THOUSAND THREE HUNDRED SIXTY FIVE RUPEES ONLY"
+    },
+    "shipping_details": {
+        "number_of_cases": 0,
+        "weight_kg": 0.934
+    },
+    "payment_details": {
+        "bank_name": "HDFC Bank",
+        "account_number": "GENO12900729",
+        "ifsc_code": "HDFC0000202",
+        "dd_cheque_in_favor_of": "GENO PHARMACEUTICALS PVT.LTD.",
+        "overdue_interest_rate": "15% p.a."
+    },
+    "terms_and_conditions": [
+        "Goods covered under this document do not contravene anyways the provision of section 18 of Drug Act 1940.",
+        "I/We hereby certify that my / Our registration certificate under the relevant GST act is in force on the date which the sales of the goods specified in the TAX INVOICE is made by me / us and that specified in the TAX INVOICE is made by me / us and that the transaction of sales covered by this tax invoice has been affected by me / us and it shall be accounted for in the turnover of sales while filing of return and due tax if any. Payable on the sales has been paid or shall be paid.",
+        "Our responsibility ceases entirely as soon as good leave our warehouse. Claims for loss should be submitted to the carries.",
+        "All claims are subject to GOA jurisdiction"
+    ],
+    "metadata": {
+        "checked_by": null,
+        "authorized_signatory_for": "GENO PHARMACEUTICALS PVT.LTD.",
+        "page_number": "1 of 1"
+    }
+}

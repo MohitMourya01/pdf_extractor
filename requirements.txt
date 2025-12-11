@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-multipart
+pypdf
+python-dotenv
+streamlit
+requests
+openai
+

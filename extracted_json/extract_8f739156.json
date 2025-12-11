@@ -1,0 +1,77 @@
+{
+    "document_type": "proforma_invoice",
+    "invoice_number": "0090354306",
+    "invoice_date": "04.12.2025",
+    "due_date": null,
+    "parties": {
+        "seller": {
+            "name": "GENO Pharmaceuticals Pvt. Ltd.",
+            "address": "TIVIM INDUSTRIAL ESTATE, KARASWADA, MAPUSA-403526",
+            "gst_number": "09AAACG5887G1Z9",
+            "pan_number": "AAACG5887G",
+            "phone_number": "0832-2257216",
+            "email": "null",
+            "bank_details": {
+                "account_number": "GENO12900729",
+                "ifsc_code": "HDFC0000202"
+            }
+        },
+        "buyer": {
+            "name": "TAYAL AGENCIES",
+            "address": "123 LGF BHARAT NEW MEDICINE MARKET, LATOUCH ROAD, LUCKNOW - 226018",
+            "gst_number": "09ADOPA5654P1ZW",
+            "pan_number": "ADOPA5654P",
+            "phone_number": "5224048597"
+        }
+    },
+    "line_items": [
+        {
+            "description": "VERTIDOM TABLETS 10S",
+            "quantity": 50,
+            "rate": 84.38,
+            "amount": 4219.0
+        },
+        {
+            "description": "VERTIGON FORTE TABLETS 10S",
+            "quantity": 100,
+            "rate": 74.9,
+            "amount": 7490.0
+        },
+        {
+            "description": "VERTIGON TABLETS 20's (WP)",
+            "quantity": 50,
+            "rate": 83.9,
+            "amount": 4195.0
+        }
+    ],
+    "totals": {
+        "subtotal": 15904.0,
+        "tax_amount": 318.08,
+        "total_amount": 15922.08,
+        "amount_paid": null,
+        "balance_due": null
+    },
+    "metadata": {
+        "order_date": "04.12.2025",
+        "ref_date": null,
+        "lr_no": null,
+        "lr_date": null,
+        "transporter": null,
+        "e_way_bill_no": null,
+        "e_way_expiry_date": null,
+        "amount_in_words": "SIXTEEN THOUSAND THREE HUNDRED SIXTY FIVE RUPEES ONLY",
+        "no_of_cases": "00000",
+        "weight": "0.934 KG",
+        "overdue_interest": "15% p.a."
+    },
+    "signatures": [
+        {
+            "name": "Authorized Signatory",
+            "title": "For GENO PHARMACEUTICALS PVT.LTD."
+        }
+    ],
+    "stamps": null,
+    "ids": null,
+    "codes": null,
+    "additional_notes": "Goods covered under this document do not contravene anyways the provision of section 18 of Drug Act 1940."
+}
