@@ -1,9 +1,15 @@
 fastapi
 uvicorn
 python-multipart
-pypdf
 python-dotenv
 streamlit
 requests
 openai
+python-poppler==0.4.1
+pdfminer.six==20221105
+pdf2image==1.17.0
+pytesseract==0.3.10
+Pillow
+pdfplumber
+
 

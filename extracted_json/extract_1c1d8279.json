@@ -1,0 +1,579 @@
+{
+    "pages": [
+        {
+            "page_number": 1,
+            "header": {
+                "title": "PROFORMA INVOICE",
+                "company": "GENO Pharmaceuticals Pvt. Ltd.",
+                "cfa": "DAS DRUGS PVT. LTD.",
+                "address": "C1/14, Lower Ground Floor, Transport Nagar, Lucknow-226012 Uttar Pradesh",
+                "state_code": "09",
+                "phone": "0522-4041623",
+                "email": "genolucknow@gmail.com"
+            },
+            "gst_number": "09AAACG5887G1Z9",
+            "drug_lic_no": [
+                "UP3220B004804",
+                "UP3221B004785"
+            ],
+            "food_lic_no": "12716066000639",
+            "gst_invoice_no": "0090354306",
+            "serial_no": "90354306",
+            "order_no": "4200361120",
+            "ref_no": "SH",
+            "invoice_date": "04.12.2025",
+            "order_date": "04.12.2025",
+            "lr_no": null,
+            "lr_date": null,
+            "transporter": null,
+            "eway_bill_no": null,
+            "eway_expiry_date": null,
+            "receiver": {
+                "name": "TAYAL AGENCIES",
+                "address": "123 LGF BHARAT NEW MEDICINE MARKET, LATOUGH ROAD, LUCKNOW - 226018",
+                "state": "09(Uttar Pradesh)",
+                "pan_no": "ADOPA5654P",
+                "phone": "5224048597",
+                "gst_no": "09ADOPA5654P1ZW",
+                "dl_no": [
+                    "UP3220B002862",
+                    "UP3221B002846"
+                ],
+                "food_lic_no": "12718066000201"
+            },
+            "consignee": {
+                "name": "TAYAL AGENCIES",
+                "address": "123 LGF BHARAT NEW MEDICINE MARKET, LATOUGH ROAD, LUCKNOW - 226018",
+                "state": "09(Uttar Pradesh)",
+                "pan_no": "ADOPA5654P",
+                "phone": "5224048597",
+                "gst_no": "09ADOPA5654P1ZW",
+                "dl_no": [
+                    "UP3220B002862",
+                    "UP3221B002846"
+                ],
+                "food_lic_no": "12718066000201"
+            },
+            "line_items": [
+                {
+                    "sr_no": 1,
+                    "product_description": "VERTIDOM TABLETS 10S",
+                    "hsn_code": "30049039",
+                    "batch": "GV025003",
+                    "mfg_by": "GENO",
+                    "mfg_date": "May 2028",
+                    "exp_date": "Jun 2025",
+                    "billed_qty": 50,
+                    "qty": 50,
+                    "qty_unit": "STP",
+                    "rate": 84.38,
+                    "total": 4219.0,
+                    "disc": 0.0,
+                    "discount_amount": 0.0,
+                    "cash_discount": 84.38,
+                    "taxable_amount": 4134.62,
+                    "ptr": 93.75,
+                    "mrp": 123.05,
+                    "cgst": {
+                        "percent": 2.5,
+                        "amount": 103.37
+                    },
+                    "sgst": {
+                        "percent": 2.5,
+                        "amount": 103.37
+                    },
+                    "igst": {
+                        "percent": 0.0,
+                        "amount": 0.0
+                    }
+                },
+                {
+                    "sr_no": 2,
+                    "product_description": "VERTIGON FORTE TABLETS 10S",
+                    "hsn_code": "30049039",
+                    "batch": "MV035003",
+                    "mfg_by": "CMPL",
+                    "mfg_date": "Jul 2028",
+                    "exp_date": "Aug 2025",
+                    "billed_qty": 100,
+                    "qty": 100,
+                    "qty_unit": "STP",
+                    "rate": 74.9,
+                    "total": 7490.0,
+                    "disc": 0.0,
+                    "discount_amount": 0.0,
+                    "cash_discount": 149.8,
+                    "taxable_amount": 7340.2,
+                    "ptr": 83.22,
+                    "mrp": 109.22,
+                    "cgst": {
+                        "percent": 2.5,
+                        "amount": 183.5
+                    },
+                    "sgst": {
+                        "percent": 2.5,
+                        "amount": 183.5
+                    },
+                    "igst": {
+                        "percent": 0.0,
+                        "amount": 0.0
+                    }
+                },
+                {
+                    "sr_no": 3,
+                    "product_description": "VERTIGON TABLETS 20's (WP)",
+                    "hsn_code": "30049039",
+                    "batch": "MV115017",
+                    "mfg_by": "CMPL",
+                    "mfg_date": "Jul 2028",
+                    "exp_date": "Aug 2025",
+                    "billed_qty": 50,
+                    "qty": 50,
+                    "qty_unit": "STP",
+                    "rate": 83.9,
+                    "total": 4195.0,
+                    "disc": 0.0,
+                    "discount_amount": 0.0,
+                    "cash_discount": 83.9,
+                    "taxable_amount": 4111.1,
+                    "ptr": 93.22,
+                    "mrp": 122.35,
+                    "cgst": {
+                        "percent": 2.5,
+                        "amount": 102.78
+                    },
+                    "sgst": {
+                        "percent": 2.5,
+                        "amount": 102.78
+                    },
+                    "igst": {
+                        "percent": 0.0,
+                        "amount": 0.0
+                    }
+                }
+            ],
+            "totals": {
+                "total_amount": 15904.0,
+                "total_discount": 0.0,
+                "total_cash_discount": 318.08,
+                "total_taxable_amount": 15585.92,
+                "total_cgst": 389.65,
+                "total_sgst": 389.65,
+                "total_igst": 0.0
+            },
+            "due_date": null,
+            "no_of_cases": 0,
+            "weight_kg": 0.934,
+            "amount_in_words": "SIXTEEN THOUSAND THREE HUNDRED SIXTY FIVE RUPEES ONLY",
+            "bank_details": {
+                "bank_name": "HDFC Bank",
+                "account_no": "GENO12900729",
+                "ifsc_code": "HDFC0000202"
+            },
+            "payment_instructions": "DD/Cheque in favour of \"GENO PHARMACEUTICALS PVT.LTD.\"",
+            "overdue_interest": "15% p.a. will be charge after due Date.",
+            "net_product_amount": 15904.0,
+            "discount_amount": 0.0,
+            "cash_discount": 318.08,
+            "cgst_amount": 389.65,
+            "sgst_amount": 389.65,
+            "rounding_off": 0.22,
+            "net_amount": 16365.0,
+            "declaration": "Goods covered under this document do not contravene anyways the provision of section 18 of Drug Act 1940. I/We hereby certify that my / Our registration certificate under the relevant GST act is in force on the date which the sales of the goods specified in the TAX INVOICE is made by me / us and that specified in the TAX INVOICE is made by me / us and that the transaction of sales covered by this tax invoice has been affected by me / us and it shall be accounted for in the turnover of sales while filing of return and due tax if any. Payable on the sales has been paid or shall be paid. Our responsibility ceases entirely as soon as good leave our warehouse. Claims for loss should be submitted to the carries. All claims are subject to GOA jurisdiction.",
+            "checked_by": "*************************",
+            "authorized_signatory": "*************************** (Authorized Signatory)",
+            "registered_office": {
+                "address": "TIVIM INDUSTRIAL ESTATE, KARASWADA, MAPUSA-403526",
+                "pan_no": "AAACG5887G",
+                "cin_no": "U24239GA1975PTC000250",
+                "phone_no": "0832-2257216",
+                "website": "www.genopharma.com",
+                "fssai_number": "10613001000359"
+            }
+        }
+    ],
+    "final": {
+        "page_number": 1,
+        "header": {
+            "title": "PROFORMA INVOICE",
+            "company": "GENO Pharmaceuticals Pvt. Ltd.",
+            "cfa": "DAS DRUGS PVT. LTD.",
+            "address": "C1/14, Lower Ground Floor, Transport Nagar, Lucknow-226012 Uttar Pradesh",
+            "state_code": "09",
+            "phone": "0522-4041623",
+            "email": "genolucknow@gmail.com"
+        },
+        "gst_number": "09AAACG5887G1Z9",
+        "drug_lic_no": [
+            "UP3220B004804",
+            "UP3221B004785"
+        ],
+        "food_lic_no": "12716066000639",
+        "gst_invoice_no": "0090354306",
+        "serial_no": "90354306",
+        "order_no": "4200361120",
+        "ref_no": "SH",
+        "invoice_date": "04.12.2025",
+        "order_date": "04.12.2025",
+        "lr_no": null,
+        "lr_date": null,
+        "transporter": null,
+        "eway_bill_no": null,
+        "eway_expiry_date": null,
+        "receiver": {
+            "name": "TAYAL AGENCIES",
+            "address": "123 LGF BHARAT NEW MEDICINE MARKET, LATOUGH ROAD, LUCKNOW - 226018",
+            "state": "09(Uttar Pradesh)",
+            "pan_no": "ADOPA5654P",
+            "phone": "5224048597",
+            "gst_no": "09ADOPA5654P1ZW",
+            "dl_no": [
+                "UP3220B002862",
+                "UP3221B002846"
+            ],
+            "food_lic_no": "12718066000201"
+        },
+        "consignee": {
+            "name": "TAYAL AGENCIES",
+            "address": "123 LGF BHARAT NEW MEDICINE MARKET, LATOUGH ROAD, LUCKNOW - 226018",
+            "state": "09(Uttar Pradesh)",
+            "pan_no": "ADOPA5654P",
+            "phone": "5224048597",
+            "gst_no": "09ADOPA5654P1ZW",
+            "dl_no": [
+                "UP3220B002862",
+                "UP3221B002846"
+            ],
+            "food_lic_no": "12718066000201"
+        },
+        "line_items": [
+            {
+                "sr_no": 1,
+                "product_description": "VERTIDOM TABLETS 10S",
+                "hsn_code": "30049039",
+                "batch": "GV025003",
+                "mfg_by": "GENO",
+                "mfg_date": "May 2028",
+                "exp_date": "Jun 2025",
+                "billed_qty": 50,
+                "qty": 50,
+                "qty_unit": "STP",
+                "rate": 84.38,
+                "total": 4219.0,
+                "disc": 0.0,
+                "discount_amount": 0.0,
+                "cash_discount": 84.38,
+                "taxable_amount": 4134.62,
+                "ptr": 93.75,
+                "mrp": 123.05,
+                "cgst": {
+                    "percent": 2.5,
+                    "amount": 103.37
+                },
+                "sgst": {
+                    "percent": 2.5,
+                    "amount": 103.37
+                },
+                "igst": {
+                    "percent": 0.0,
+                    "amount": 0.0
+                }
+            },
+            {
+                "sr_no": 2,
+                "product_description": "VERTIGON FORTE TABLETS 10S",
+                "hsn_code": "30049039",
+                "batch": "MV035003",
+                "mfg_by": "CMPL",
+                "mfg_date": "Jul 2028",
+                "exp_date": "Aug 2025",
+                "billed_qty": 100,
+                "qty": 100,
+                "qty_unit": "STP",
+                "rate": 74.9,
+                "total": 7490.0,
+                "disc": 0.0,
+                "discount_amount": 0.0,
+                "cash_discount": 149.8,
+                "taxable_amount": 7340.2,
+                "ptr": 83.22,
+                "mrp": 109.22,
+                "cgst": {
+                    "percent": 2.5,
+                    "amount": 183.5
+                },
+                "sgst": {
+                    "percent": 2.5,
+                    "amount": 183.5
+                },
+                "igst": {
+                    "percent": 0.0,
+                    "amount": 0.0
+                }
+            },
+            {
+                "sr_no": 3,
+                "product_description": "VERTIGON TABLETS 20's (WP)",
+                "hsn_code": "30049039",
+                "batch": "MV115017",
+                "mfg_by": "CMPL",
+                "mfg_date": "Jul 2028",
+                "exp_date": "Aug 2025",
+                "billed_qty": 50,
+                "qty": 50,
+                "qty_unit": "STP",
+                "rate": 83.9,
+                "total": 4195.0,
+                "disc": 0.0,
+                "discount_amount": 0.0,
+                "cash_discount": 83.9,
+                "taxable_amount": 4111.1,
+                "ptr": 93.22,
+                "mrp": 122.35,
+                "cgst": {
+                    "percent": 2.5,
+                    "amount": 102.78
+                },
+                "sgst": {
+                    "percent": 2.5,
+                    "amount": 102.78
+                },
+                "igst": {
+                    "percent": 0.0,
+                    "amount": 0.0
+                }
+            }
+        ],
+        "totals": {
+            "total_amount": 15904.0,
+            "total_discount": 0.0,
+            "total_cash_discount": 318.08,
+            "total_taxable_amount": 15585.92,
+            "total_cgst": 389.65,
+            "total_sgst": 389.65,
+            "total_igst": 0.0
+        },
+        "due_date": null,
+        "no_of_cases": 0,
+        "weight_kg": 0.934,
+        "amount_in_words": "SIXTEEN THOUSAND THREE HUNDRED SIXTY FIVE RUPEES ONLY",
+        "bank_details": {
+            "bank_name": "HDFC Bank",
+            "account_no": "GENO12900729",
+            "ifsc_code": "HDFC0000202"
+        },
+        "payment_instructions": "DD/Cheque in favour of \"GENO PHARMACEUTICALS PVT.LTD.\"",
+        "overdue_interest": "15% p.a. will be charge after due Date.",
+        "net_product_amount": 15904.0,
+        "discount_amount": 0.0,
+        "cash_discount": 318.08,
+        "cgst_amount": 389.65,
+        "sgst_amount": 389.65,
+        "rounding_off": 0.22,
+        "net_amount": 16365.0,
+        "declaration": "Goods covered under this document do not contravene anyways the provision of section 18 of Drug Act 1940. I/We hereby certify that my / Our registration certificate under the relevant GST act is in force on the date which the sales of the goods specified in the TAX INVOICE is made by me / us and that specified in the TAX INVOICE is made by me / us and that the transaction of sales covered by this tax invoice has been affected by me / us and it shall be accounted for in the turnover of sales while filing of return and due tax if any. Payable on the sales has been paid or shall be paid. Our responsibility ceases entirely as soon as good leave our warehouse. Claims for loss should be submitted to the carries. All claims are subject to GOA jurisdiction.",
+        "checked_by": "*************************",
+        "authorized_signatory": "*************************** (Authorized Signatory)",
+        "registered_office": {
+            "address": "TIVIM INDUSTRIAL ESTATE, KARASWADA, MAPUSA-403526",
+            "pan_no": "AAACG5887G",
+            "cin_no": "U24239GA1975PTC000250",
+            "phone_no": "0832-2257216",
+            "website": "www.genopharma.com",
+            "fssai_number": "10613001000359"
+        },
+        "pages": [
+            {
+                "page_number": 1,
+                "header": {
+                    "title": "PROFORMA INVOICE",
+                    "company": "GENO Pharmaceuticals Pvt. Ltd.",
+                    "cfa": "DAS DRUGS PVT. LTD.",
+                    "address": "C1/14, Lower Ground Floor, Transport Nagar, Lucknow-226012 Uttar Pradesh",
+                    "state_code": "09",
+                    "phone": "0522-4041623",
+                    "email": "genolucknow@gmail.com"
+                },
+                "gst_number": "09AAACG5887G1Z9",
+                "drug_lic_no": [
+                    "UP3220B004804",
+                    "UP3221B004785"
+                ],
+                "food_lic_no": "12716066000639",
+                "gst_invoice_no": "0090354306",
+                "serial_no": "90354306",
+                "order_no": "4200361120",
+                "ref_no": "SH",
+                "invoice_date": "04.12.2025",
+                "order_date": "04.12.2025",
+                "lr_no": null,
+                "lr_date": null,
+                "transporter": null,
+                "eway_bill_no": null,
+                "eway_expiry_date": null,
+                "receiver": {
+                    "name": "TAYAL AGENCIES",
+                    "address": "123 LGF BHARAT NEW MEDICINE MARKET, LATOUGH ROAD, LUCKNOW - 226018",
+                    "state": "09(Uttar Pradesh)",
+                    "pan_no": "ADOPA5654P",
+                    "phone": "5224048597",
+                    "gst_no": "09ADOPA5654P1ZW",
+                    "dl_no": [
+                        "UP3220B002862",
+                        "UP3221B002846"
+                    ],
+                    "food_lic_no": "12718066000201"
+                },
+                "consignee": {
+                    "name": "TAYAL AGENCIES",
+                    "address": "123 LGF BHARAT NEW MEDICINE MARKET, LATOUGH ROAD, LUCKNOW - 226018",
+                    "state": "09(Uttar Pradesh)",
+                    "pan_no": "ADOPA5654P",
+                    "phone": "5224048597",
+                    "gst_no": "09ADOPA5654P1ZW",
+                    "dl_no": [
+                        "UP3220B002862",
+                        "UP3221B002846"
+                    ],
+                    "food_lic_no": "12718066000201"
+                },
+                "line_items": [
+                    {
+                        "sr_no": 1,
+                        "product_description": "VERTIDOM TABLETS 10S",
+                        "hsn_code": "30049039",
+                        "batch": "GV025003",
+                        "mfg_by": "GENO",
+                        "mfg_date": "May 2028",
+                        "exp_date": "Jun 2025",
+                        "billed_qty": 50,
+                        "qty": 50,
+                        "qty_unit": "STP",
+                        "rate": 84.38,
+                        "total": 4219.0,
+                        "disc": 0.0,
+                        "discount_amount": 0.0,
+                        "cash_discount": 84.38,
+                        "taxable_amount": 4134.62,
+                        "ptr": 93.75,
+                        "mrp": 123.05,
+                        "cgst": {
+                            "percent": 2.5,
+                            "amount": 103.37
+                        },
+                        "sgst": {
+                            "percent": 2.5,
+                            "amount": 103.37
+                        },
+                        "igst": {
+                            "percent": 0.0,
+                            "amount": 0.0
+                        }
+                    },
+                    {
+                        "sr_no": 2,
+                        "product_description": "VERTIGON FORTE TABLETS 10S",
+                        "hsn_code": "30049039",
+                        "batch": "MV035003",
+                        "mfg_by": "CMPL",
+                        "mfg_date": "Jul 2028",
+                        "exp_date": "Aug 2025",
+                        "billed_qty": 100,
+                        "qty": 100,
+                        "qty_unit": "STP",
+                        "rate": 74.9,
+                        "total": 7490.0,
+                        "disc": 0.0,
+                        "discount_amount": 0.0,
+                        "cash_discount": 149.8,
+                        "taxable_amount": 7340.2,
+                        "ptr": 83.22,
+                        "mrp": 109.22,
+                        "cgst": {
+                            "percent": 2.5,
+                            "amount": 183.5
+                        },
+                        "sgst": {
+                            "percent": 2.5,
+                            "amount": 183.5
+                        },
+                        "igst": {
+                            "percent": 0.0,
+                            "amount": 0.0
+                        }
+                    },
+                    {
+                        "sr_no": 3,
+                        "product_description": "VERTIGON TABLETS 20's (WP)",
+                        "hsn_code": "30049039",
+                        "batch": "MV115017",
+                        "mfg_by": "CMPL",
+                        "mfg_date": "Jul 2028",
+                        "exp_date": "Aug 2025",
+                        "billed_qty": 50,
+                        "qty": 50,
+                        "qty_unit": "STP",
+                        "rate": 83.9,
+                        "total": 4195.0,
+                        "disc": 0.0,
+                        "discount_amount": 0.0,
+                        "cash_discount": 83.9,
+                        "taxable_amount": 4111.1,
+                        "ptr": 93.22,
+                        "mrp": 122.35,
+                        "cgst": {
+                            "percent": 2.5,
+                            "amount": 102.78
+                        },
+                        "sgst": {
+                            "percent": 2.5,
+                            "amount": 102.78
+                        },
+                        "igst": {
+                            "percent": 0.0,
+                            "amount": 0.0
+                        }
+                    }
+                ],
+                "totals": {
+                    "total_amount": 15904.0,
+                    "total_discount": 0.0,
+                    "total_cash_discount": 318.08,
+                    "total_taxable_amount": 15585.92,
+                    "total_cgst": 389.65,
+                    "total_sgst": 389.65,
+                    "total_igst": 0.0
+                },
+                "due_date": null,
+                "no_of_cases": 0,
+                "weight_kg": 0.934,
+                "amount_in_words": "SIXTEEN THOUSAND THREE HUNDRED SIXTY FIVE RUPEES ONLY",
+                "bank_details": {
+                    "bank_name": "HDFC Bank",
+                    "account_no": "GENO12900729",
+                    "ifsc_code": "HDFC0000202"
+                },
+                "payment_instructions": "DD/Cheque in favour of \"GENO PHARMACEUTICALS PVT.LTD.\"",
+                "overdue_interest": "15% p.a. will be charge after due Date.",
+                "net_product_amount": 15904.0,
+                "discount_amount": 0.0,
+                "cash_discount": 318.08,
+                "cgst_amount": 389.65,
+                "sgst_amount": 389.65,
+                "rounding_off": 0.22,
+                "net_amount": 16365.0,
+                "declaration": "Goods covered under this document do not contravene anyways the provision of section 18 of Drug Act 1940. I/We hereby certify that my / Our registration certificate under the relevant GST act is in force on the date which the sales of the goods specified in the TAX INVOICE is made by me / us and that specified in the TAX INVOICE is made by me / us and that the transaction of sales covered by this tax invoice has been affected by me / us and it shall be accounted for in the turnover of sales while filing of return and due tax if any. Payable on the sales has been paid or shall be paid. Our responsibility ceases entirely as soon as good leave our warehouse. Claims for loss should be submitted to the carries. All claims are subject to GOA jurisdiction.",
+                "checked_by": "*************************",
+                "authorized_signatory": "*************************** (Authorized Signatory)",
+                "registered_office": {
+                    "address": "TIVIM INDUSTRIAL ESTATE, KARASWADA, MAPUSA-403526",
+                    "pan_no": "AAACG5887G",
+                    "cin_no": "U24239GA1975PTC000250",
+                    "phone_no": "0832-2257216",
+                    "website": "www.genopharma.com",
+                    "fssai_number": "10613001000359"
+                }
+            }
+        ]
+    }
+}
