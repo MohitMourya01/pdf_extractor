@@ -1,0 +1,24 @@
+{
+    "headers": {
+        "error": "Failed to parse JSON",
+        "error_details": "Expecting ',' delimiter: line 121 column 17 (char 3545)",
+        "raw_response_preview": "```json { \"document_type\": \"tax_invoice\", \"page_number\": 1, \"extraction_confidence\": 0.92, \"header\": { \"supplier\": { \"name\": \"S M DISTRIBUTORS\", \"code\": \"18887 205\", \"add",
+        "_extraction_method": "text_fallback"
+    },
+    "items": [],
+    "metadata": {
+        "total_pages": 1,
+        "extraction_methods": [
+            "text_fallback"
+        ],
+        "page_summary": [
+            {
+                "page_number": 1,
+                "extraction_method": "text_fallback",
+                "items_count": 0,
+                "has_items": false
+            }
+        ],
+        "extraction_confidence": 0.0
+    }
+}

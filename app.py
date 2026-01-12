@@ -76,7 +76,7 @@ with st.sidebar:
     st.markdown("---")
     st.markdown("""
     ### About
-    This tool uses **Gemini AI** to extract structured JSON data from **ANY** PDF invoice or document.
+    This tool uses **Mistral AI** to extract structured JSON data from **ANY** PDF invoice or document.
     
     **Features:**
     - Universal Extraction

@@ -1,0 +1,717 @@
+{
+    "headers": {
+        "metadata": {
+            "overlapping_detected": false,
+            "validation_warnings": []
+        },
+        "header": {
+            "company_name": "M/S KRISHNA PHARMA",
+            "branch": "M/S KRISHNA PHARMA, RAJA PRATAP BAHADUR PARK, KUTCHERY ROAD, SADAR",
+            "location": "KUTCHARY PRADESH",
+            "gst_number": "09ADEPK7311D1ZV",
+            "dl_numbers": [
+                "UP7220B000484",
+                "UP7221B000483"
+            ],
+            "document_title": "ROUGH ESTIMATE",
+            "estimate_number": "L000225",
+            "date": "18-04-2025",
+            "due_date": "18-04-2025",
+            "sales_man": null
+        },
+        "items_table": {
+            "headers": [
+                "Sn.",
+                "Qty.",
+                "Pack",
+                "Product",
+                "Batch",
+                "Exp.",
+                "HSN",
+                "MRP",
+                "Rate",
+                "Dis",
+                "SGST",
+                "CGST",
+                "Amount"
+            ],
+            "rows": [
+                {
+                    "Sn.": 1,
+                    "Qty.": 1,
+                    "Pack": "20STR",
+                    "Product": "ACCECLOPAC SP TAB",
+                    "Batch": "PRATAPGARH1",
+                    "Exp.": "TEL-24T1323",
+                    "HSN": "30049079",
+                    "MRP": 0.0,
+                    "Rate": 150.0,
+                    "Dis": 0.71,
+                    "SGST": 6.0,
+                    "CGST": 6.0,
+                    "Amount": 150.0
+                },
+                {
+                    "Sn.": 2,
+                    "Qty.": 1,
+                    "Pack": "20STR",
+                    "Product": "ALCIFLOX 500MG TAB[ALU]",
+                    "Batch": "24270008",
+                    "Exp.": "11/28",
+                    "HSN": "30049079",
+                    "MRP": 47.49,
+                    "Rate": 355.0,
+                    "Dis": 0.71,
+                    "SGST": 6.0,
+                    "CGST": 6.0,
+                    "Amount": 355.0
+                },
+                {
+                    "Sn.": 3,
+                    "Qty.": 1,
+                    "Pack": "10ML",
+                    "Product": "ALCIFLOX D EYE DROP",
+                    "Batch": "ACD24003ES12/25",
+                    "Exp.": null,
+                    "HSN": "30049079",
+                    "MRP": 0.0,
+                    "Rate": 11.9,
+                    "Dis": 0.71,
+                    "SGST": 6.0,
+                    "CGST": 6.0,
+                    "Amount": 11.9
+                },
+                {
+                    "Sn.": 4,
+                    "Qty.": 1,
+                    "Pack": "20STR",
+                    "Product": "ALCOXIB MR TAB",
+                    "Batch": "AMR24005ES7/26",
+                    "Exp.": null,
+                    "HSN": "30049079",
+                    "MRP": 0.0,
+                    "Rate": 980.0,
+                    "Dis": 0.71,
+                    "SGST": 6.0,
+                    "CGST": 6.0,
+                    "Amount": 980.0
+                },
+                {
+                    "Sn.": 5,
+                    "Qty.": 1,
+                    "Pack": "20STP",
+                    "Product": "ALDIGESIC SP TAB",
+                    "Batch": "AST24288MBJ/26",
+                    "Exp.": null,
+                    "HSN": "30049079",
+                    "MRP": 120.0,
+                    "Rate": 375.0,
+                    "Dis": 0.71,
+                    "SGST": 6.0,
+                    "CGST": 6.0,
+                    "Amount": 375.0
+                },
+                {
+                    "Sn.": 6,
+                    "Qty.": 1,
+                    "Pack": "20STR",
+                    "Product": "ARICEF-O PLUS TAB[CHEK]",
+                    "Batch": "RA217",
+                    "Exp.": "9/26",
+                    "HSN": "30049079",
+                    "MRP": 0.0,
+                    "Rate": 1020.0,
+                    "Dis": 0.71,
+                    "SGST": 6.0,
+                    "CGST": 6.0,
+                    "Amount": 1020.0
+                },
+                {
+                    "Sn.": 7,
+                    "Qty.": 1,
+                    "Pack": "1BOX",
+                    "Product": "CEFACLASS 200MG TAB",
+                    "Batch": "KKYAB 004 12/26",
+                    "Exp.": null,
+                    "HSN": "30049079",
+                    "MRP": 109.0,
+                    "Rate": 350.0,
+                    "Dis": 0.71,
+                    "SGST": 6.0,
+                    "CGST": 6.0,
+                    "Amount": 350.0
+                },
+                {
+                    "Sn.": 8,
+                    "Qty.": 1,
+                    "Pack": "20STR",
+                    "Product": "CIPROVA 500MG TAB[ALU]",
+                    "Batch": "AT-054923",
+                    "Exp.": "11/26",
+                    "HSN": "30049079",
+                    "MRP": 0.0,
+                    "Rate": 390.0,
+                    "Dis": 0.71,
+                    "SGST": 6.0,
+                    "CGST": 6.0,
+                    "Amount": 390.0
+                },
+                {
+                    "Sn.": 9,
+                    "Qty.": 1,
+                    "Pack": "1PCS",
+                    "Product": "CLOBENATE GM OINT INDS[WT]",
+                    "Batch": "AJ68",
+                    "Exp.": "1/27",
+                    "HSN": "30049079",
+                    "MRP": 92.85,
+                    "Rate": 7.5,
+                    "Dis": 0.71,
+                    "SGST": 6.0,
+                    "CGST": 6.0,
+                    "Amount": 7.5
+                },
+                {
+                    "Sn.": 10,
+                    "Qty.": 1,
+                    "Pack": "1PIC",
+                    "Product": "CLOBIKEM GM[CHEK]",
+                    "Batch": "CE006E",
+                    "Exp.": "11/26",
+                    "HSN": "30049079",
+                    "MRP": 0.0,
+                    "Rate": 10.6,
+                    "Dis": 0.71,
+                    "SGST": 6.0,
+                    "CGST": 6.0,
+                    "Amount": 10.6
+                },
+                {
+                    "Sn.": 11,
+                    "Qty.": 1,
+                    "Pack": "1AMP",
+                    "Product": "DECA-INSTABOLIN 50MG",
+                    "Batch": "DELD32",
+                    "Exp.": "10/26",
+                    "HSN": "30049079",
+                    "MRP": 406.0,
+                    "Rate": 13.6,
+                    "Dis": 0.71,
+                    "SGST": 6.0,
+                    "CGST": 6.0,
+                    "Amount": 13.6
+                },
+                {
+                    "Sn.": 12,
+                    "Qty.": 1,
+                    "Pack": "1AMP",
+                    "Product": "DECATRALIN 50MG INJ",
+                    "Batch": "ONEI-032",
+                    "Exp.": "10/27",
+                    "HSN": "30049079",
+                    "MRP": 0.0,
+                    "Rate": 12.8,
+                    "Dis": 0.71,
+                    "SGST": 6.0,
+                    "CGST": 6.0,
+                    "Amount": 12.8
+                },
+                {
+                    "Sn.": 13,
+                    "Qty.": 1,
+                    "Pack": "1PCS",
+                    "Product": "DERMA KT OINT+SKIM",
+                    "Batch": "NB-10",
+                    "Exp.": "11/27",
+                    "HSN": "30049079",
+                    "MRP": 88.0,
+                    "Rate": 17.2,
+                    "Dis": 0.71,
+                    "SGST": 6.0,
+                    "CGST": 6.0,
+                    "Amount": 17.2
+                },
+                {
+                    "Sn.": 14,
+                    "Qty.": 1,
+                    "Pack": "30STR",
+                    "Product": "ELOPRASTEP CAP",
+                    "Batch": "B240681",
+                    "Exp.": "2/27",
+                    "HSN": "30049079",
+                    "MRP": 0.0,
+                    "Rate": 86.0,
+                    "Dis": 0.71,
+                    "SGST": 6.0,
+                    "CGST": 6.0,
+                    "Amount": 86.0
+                },
+                {
+                    "Sn.": 15,
+                    "Qty.": 1,
+                    "Pack": "1PCS",
+                    "Product": "FOURDERM OINT 5GM",
+                    "Batch": "41117",
+                    "Exp.": "5/26",
+                    "HSN": "30049079",
+                    "MRP": 56.65,
+                    "Rate": 11.6,
+                    "Dis": 0.71,
+                    "SGST": 6.0,
+                    "CGST": 6.0,
+                    "Amount": 11.6
+                }
+            ]
+        },
+        "summary_table": {
+            "headers": [
+                "CLASS",
+                "TOTAL",
+                "SCH.",
+                "DISC.",
+                "SGST",
+                "CGST",
+                "TOTAL GST"
+            ],
+            "rows": [
+                {
+                    "CLASS": "GST 5.00",
+                    "TOTAL": 0.0,
+                    "SCH.": 0.0,
+                    "DISC.": 0.0,
+                    "SGST": 0.0,
+                    "CGST": 0.0,
+                    "TOTAL GST": 0.0
+                },
+                {
+                    "CLASS": "GST 12.00",
+                    "TOTAL": 3791.2,
+                    "SCH.": 0.0,
+                    "DISC.": 406.04,
+                    "SGST": 203.12,
+                    "CGST": 203.12,
+                    "TOTAL GST": 406.24
+                },
+                {
+                    "CLASS": "GST 18.00",
+                    "TOTAL": 0.0,
+                    "SCH.": 0.0,
+                    "DISC.": 0.0,
+                    "SGST": 0.0,
+                    "CGST": 0.0,
+                    "TOTAL GST": 0.0
+                },
+                {
+                    "CLASS": "GST 28.00",
+                    "TOTAL": 0.0,
+                    "SCH.": 0.0,
+                    "DISC.": 0.0,
+                    "SGST": 0.0,
+                    "CGST": 0.0,
+                    "TOTAL GST": 0.0
+                },
+                {
+                    "CLASS": "TOTAL",
+                    "TOTAL": 3791.2,
+                    "SCH.": 0.0,
+                    "DISC.": 406.04,
+                    "SGST": 203.12,
+                    "CGST": 203.12,
+                    "TOTAL GST": 406.24
+                }
+            ]
+        },
+        "footer": {
+            "total_amount_in_words": "Rs. Ten Thousand Three Hundred and Twenty-Three only",
+            "terms_and_conditions": "All disputes subject to Jurisdiction only.",
+            "receiver": null,
+            "for_entity": "For NEW RATHOUR MEDICAL AGENCY",
+            "bank_details": "BANK:-ICICI, A/C:-467805500146"
+        },
+        "continuation_note": "Continued... 2",
+        "_extraction_method": "vision_fallback",
+        "tax_summary": {
+            "headers": [
+                "CLASS",
+                "TOTAL",
+                "SCH.",
+                "DISC.",
+                "SGST",
+                "CGST",
+                "TOTAL GST"
+            ],
+            "rows": [
+                {
+                    "CLASS": "GST 5.00",
+                    "TOTAL": 0.0,
+                    "SCH.": 0.0,
+                    "DISC.": 0.0,
+                    "SGST": 0.0,
+                    "CGST": 0.0,
+                    "TOTAL GST": 0.0
+                },
+                {
+                    "CLASS": "GST 12.00",
+                    "TOTAL": 6649.2,
+                    "SCH.": 0.0,
+                    "DISC.": 712.13,
+                    "SGST": 356.23,
+                    "CGST": 356.23,
+                    "TOTAL GST": 712.46
+                },
+                {
+                    "CLASS": "GST 18.00",
+                    "TOTAL": 821.5,
+                    "SCH.": 0.0,
+                    "DISC.": 125.28,
+                    "SGST": 62.66,
+                    "CGST": 62.66,
+                    "TOTAL GST": 125.32
+                },
+                {
+                    "CLASS": "GST 28.00",
+                    "TOTAL": 0.0,
+                    "SCH.": 0.0,
+                    "DISC.": 0.0,
+                    "SGST": 0.0,
+                    "CGST": 0.0,
+                    "TOTAL GST": 0.0
+                },
+                {
+                    "CLASS": "TOTAL",
+                    "TOTAL": 7470.7,
+                    "SCH.": 0.0,
+                    "DISC.": 837.41,
+                    "SGST": 418.89,
+                    "CGST": 418.89,
+                    "TOTAL GST": 837.78
+                }
+            ]
+        },
+        "table": {
+            "headers": [
+                "Sn.",
+                "Qty.",
+                "Pack",
+                "Product",
+                "Batch",
+                "Exp.",
+                "HSN",
+                "MRP",
+                "Rate",
+                "Dis.",
+                "SGST",
+                "CGST",
+                "Amount"
+            ],
+            "rows": [
+                {
+                    "Sn.": 30,
+                    "Qty.": 1,
+                    "Pack": "1BOX",
+                    "Product": "MEGACEELO SP TAB[ARISTO]",
+                    "Batch": "MST25010SL",
+                    "Exp.": "1/27",
+                    "HSN": "30049079",
+                    "MRP": 344.0,
+                    "Rate": null,
+                    "Dis.": 0.71,
+                    "SGST": 6.0,
+                    "CGST": 6.0,
+                    "Amount": 344.0,
+                    "validation_warnings": [
+                        "Expiry date format unusual"
+                    ]
+                },
+                {
+                    "Sn.": 31,
+                    "Qty.": 1,
+                    "Pack": "1PIC",
+                    "Product": "MELAMETAX OINT",
+                    "Batch": "C25824S",
+                    "Exp.": "2/27",
+                    "HSN": "30049079",
+                    "MRP": 19.2,
+                    "Rate": null,
+                    "Dis.": 0.71,
+                    "SGST": 6.0,
+                    "CGST": 6.0,
+                    "Amount": 19.2
+                },
+                {
+                    "Sn.": 32,
+                    "Qty.": 1,
+                    "Pack": "10ML",
+                    "Product": "MOXIMAX-D EYE DROP",
+                    "Batch": "MDD24008ES",
+                    "Exp.": "5/26",
+                    "HSN": "30049079",
+                    "MRP": 13.6,
+                    "Rate": null,
+                    "Dis.": 0.71,
+                    "SGST": 6.0,
+                    "CGST": 6.0,
+                    "Amount": 13.6
+                },
+                {
+                    "Sn.": 33,
+                    "Qty.": 1,
+                    "Pack": "1PCS",
+                    "Product": "MY FAIR CREAM+SKIM",
+                    "Batch": "Z25-054",
+                    "Exp.": "1/26",
+                    "HSN": "30049079",
+                    "MRP": 81.0,
+                    "Rate": null,
+                    "Dis.": 0.71,
+                    "SGST": 6.0,
+                    "CGST": 6.0,
+                    "Amount": 81.0
+                },
+                {
+                    "Sn.": 34,
+                    "Qty.": 1,
+                    "Pack": "20STR",
+                    "Product": "NORFLOKEM TZ TAB",
+                    "Batch": "NTT24067SL",
+                    "Exp.": "9/27",
+                    "HSN": "30049079",
+                    "MRP": 520.0,
+                    "Rate": null,
+                    "Dis.": 0.71,
+                    "SGST": 6.0,
+                    "CGST": 6.0,
+                    "Amount": 520.0
+                },
+                {
+                    "Sn.": 35,
+                    "Qty.": 1,
+                    "Pack": "10STR",
+                    "Product": "NOVACLAV-625MG TAB",
+                    "Batch": "4KO0528",
+                    "Exp.": "9/26",
+                    "HSN": "30049079",
+                    "MRP": 675.0,
+                    "Rate": null,
+                    "Dis.": 0.71,
+                    "SGST": 6.0,
+                    "CGST": 6.0,
+                    "Amount": 675.0
+                },
+                {
+                    "Sn.": 36,
+                    "Qty.": 1,
+                    "Pack": "1PIC",
+                    "Product": "OFLOKEM D DROP",
+                    "Batch": "ODD24045ES",
+                    "Exp.": "6/26",
+                    "HSN": "30049079",
+                    "MRP": 11.2,
+                    "Rate": null,
+                    "Dis.": 0.71,
+                    "SGST": 6.0,
+                    "CGST": 6.0,
+                    "Amount": 11.2
+                },
+                {
+                    "Sn.": 37,
+                    "Qty.": 1,
+                    "Pack": "30ML",
+                    "Product": "OFLOKEM OZ+SYP(G)",
+                    "Batch": "OFL24023RH",
+                    "Exp.": "6/26",
+                    "HSN": "30049079",
+                    "MRP": 15.6,
+                    "Rate": null,
+                    "Dis.": 0.71,
+                    "SGST": 6.0,
+                    "CGST": 6.0,
+                    "Amount": 15.6
+                },
+                {
+                    "Sn.": 38,
+                    "Qty.": 1,
+                    "Pack": "1BOX",
+                    "Product": "OFLOTAS OZ TAB",
+                    "Batch": "ST12447S",
+                    "Exp.": "8/26",
+                    "HSN": "30049079",
+                    "MRP": 352.0,
+                    "Rate": null,
+                    "Dis.": 0.71,
+                    "SGST": 6.0,
+                    "CGST": 6.0,
+                    "Amount": 352.0
+                },
+                {
+                    "Sn.": 39,
+                    "Qty.": 1,
+                    "Pack": "10STR",
+                    "Product": "PUDINA SAAR CAP",
+                    "Batch": "JDPS45003",
+                    "Exp.": "1/28",
+                    "HSN": "30049079",
+                    "MRP": 26.0,
+                    "Rate": null,
+                    "Dis.": 0.71,
+                    "SGST": 6.0,
+                    "CGST": 6.0,
+                    "Amount": 26.0
+                },
+                {
+                    "Sn.": 40,
+                    "Qty.": 1,
+                    "Pack": "20STP",
+                    "Product": "RABALAKEM DSR CAP",
+                    "Batch": "RBKC24058S1",
+                    "Exp.": "1/26",
+                    "HSN": "30049079",
+                    "MRP": 268.0,
+                    "Rate": null,
+                    "Dis.": 0.71,
+                    "SGST": 6.0,
+                    "CGST": 6.0,
+                    "Amount": 268.0
+                },
+                {
+                    "Sn.": 41,
+                    "Qty.": 1,
+                    "Pack": "1PCS",
+                    "Product": "SKIN BRITE OINT",
+                    "Batch": "B125005",
+                    "Exp.": "12/26",
+                    "HSN": "30049079",
+                    "MRP": 179.65,
+                    "Rate": null,
+                    "Dis.": 0.71,
+                    "SGST": 6.0,
+                    "CGST": 6.0,
+                    "Amount": 19.5,
+                    "validation_warnings": [
+                        "Amount does not match expected calculation"
+                    ]
+                },
+                {
+                    "Sn.": 42,
+                    "Qty.": 1,
+                    "Pack": "1PIC",
+                    "Product": "TOBRA D DROP",
+                    "Batch": "PTD0L001",
+                    "Exp.": "7/26",
+                    "HSN": "30049079",
+                    "MRP": 12.9,
+                    "Rate": null,
+                    "Dis.": 0.71,
+                    "SGST": 2.5,
+                    "CGST": 2.5,
+                    "Amount": 12.9
+                },
+                {
+                    "Sn.": 43,
+                    "Qty.": 1,
+                    "Pack": "1BOX",
+                    "Product": "TOREX TAB",
+                    "Batch": "B23125001",
+                    "Exp.": "12/26",
+                    "HSN": "30049079",
+                    "MRP": 126.0,
+                    "Rate": null,
+                    "Dis.": 0.71,
+                    "SGST": 6.0,
+                    "CGST": 6.0,
+                    "Amount": 126.0
+                }
+            ]
+        },
+        "summary": {
+            "gst_breakdown": [
+                {
+                    "CLASS": "GST 5.00",
+                    "TOTAL": 12.9,
+                    "SCH.": 0.0,
+                    "DISC.": 0.61,
+                    "SGST": 0.31,
+                    "CGST": 0.31,
+                    "TOTAL_GST": 0.62
+                },
+                {
+                    "CLASS": "GST 12.00",
+                    "TOTAL": 9120.3,
+                    "SCH.": 0.0,
+                    "DISC.": 976.78,
+                    "SGST": 488.62,
+                    "CGST": 488.62,
+                    "TOTAL_GST": 977.24
+                },
+                {
+                    "CLASS": "GST 18.00",
+                    "TOTAL": 821.5,
+                    "SCH.": 0.0,
+                    "DISC.": 125.28,
+                    "SGST": 62.66,
+                    "CGST": 62.66,
+                    "TOTAL_GST": 125.32
+                },
+                {
+                    "CLASS": "GST 28.00",
+                    "TOTAL": 0.0,
+                    "SCH.": 0.0,
+                    "DISC.": 0.0,
+                    "SGST": 0.0,
+                    "CGST": 0.0,
+                    "TOTAL_GST": 0.0
+                }
+            ],
+            "TOTAL": {
+                "TOTAL": 9954.7,
+                "SCH.": 0.0,
+                "DISC.": 1102.67,
+                "SGST": 551.59,
+                "CGST": 551.59,
+                "TOTAL_GST": 1103.18,
+                "grand_total_words": "Rs. Ten Thousand Three Hundred and Twenty-Three only"
+            }
+        },
+        "terms_and_conditions": "All disputes subject to Jurisdiction only.",
+        "bank_details": {
+            "bank": "ICICI",
+            "account_number": "467805500146"
+        },
+        "receiver": null
+    },
+    "items": [],
+    "metadata": {
+        "total_pages": 4,
+        "extraction_methods": [
+            "vision_fallback"
+        ],
+        "page_summary": [
+            {
+                "page_number": 1,
+                "extraction_method": "vision_fallback",
+                "items_count": 0,
+                "has_items": false
+            },
+            {
+                "page_number": 2,
+                "extraction_method": "vision_fallback",
+                "items_count": 0,
+                "has_items": false
+            },
+            {
+                "page_number": 3,
+                "extraction_method": "vision_fallback",
+                "items_count": 0,
+                "has_items": false
+            },
+            {
+                "page_number": 4,
+                "extraction_method": "vision_fallback",
+                "items_count": 0,
+                "has_items": false
+            }
+        ],
+        "extraction_confidence": 0.98,
+        "document_type": "rough_estimate_invoice"
+    }
+}

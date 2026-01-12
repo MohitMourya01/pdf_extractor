@@ -1,0 +1,1003 @@
+{
+    "headers": {
+        "header": {
+            "seller_details": {
+                "name": "SANA PHARMA",
+                "trade_name": "M/s KRISHNA PHARMA",
+                "address_lines": [
+                    "RAJA PRATAP BAHADUR PARK, KUTCHERY ROAD,SADAR",
+                    "SHOP NO.4 LGF,AJ PLAZA 110/22KA MEER JAAN LANE,",
+                    "PRATAPGARH UTTAR PRADESH 230001",
+                    "NAYA GAON EAST,PO-AMINABAAD,LUCKNOW LUCKNOW"
+                ],
+                "phone_numbers": [
+                    "9807770595",
+                    "9621803963",
+                    "9598889428",
+                    "0522-4230853"
+                ],
+                "gst_number": "09ADEPK7311D1ZV",
+                "licence_numbers": [
+                    "UP7220B000484",
+                    "UP7221B000483",
+                    "UP3220B004054",
+                    "UP3221B004038"
+                ],
+                "vat_number": "09550061450"
+            },
+            "invoice_details": {
+                "invoice_number": "SP003333",
+                "date": "2025-12-12",
+                "gstin": "09DSKPK5474F1ZB",
+                "acknowledgment_number": null,
+                "irn_number": null,
+                "e_way_number": null,
+                "purchase_order_number": null,
+                "fl_number": null
+            }
+        },
+        "items_table": {
+            "headers": [
+                "S.N.",
+                "PARTICULARS",
+                "HSN",
+                "PACK",
+                "QTY.",
+                "FREE",
+                "RATE",
+                "GST%",
+                "DISC%",
+                "AMOUNT",
+                "M.R.P.",
+                "BATCH NO",
+                "EXP.",
+                "N.RATE"
+            ],
+            "rows": [
+                {
+                    "S.N.": 1,
+                    "PARTICULARS": "KENACORT 4MG",
+                    "HSN": "30049069",
+                    "PACK": "1x10",
+                    "QTY.": 1.0,
+                    "FREE": null,
+                    "RATE": 126.14,
+                    "GST%": 5.0,
+                    "DISC%": 14.0,
+                    "AMOUNT": 113.9,
+                    "M.R.P.": 165.56,
+                    "BATCH NO": "SSL0067",
+                    "EXP.": "4/27",
+                    "N.RATE": 113.9
+                },
+                {
+                    "S.N.": 2,
+                    "PARTICULARS": "TAXIM-O SYP",
+                    "HSN": "30049099",
+                    "PACK": "1X30ML",
+                    "QTY.": 1.0,
+                    "FREE": "9+1",
+                    "RATE": 39.69,
+                    "GST%": 5.0,
+                    "DISC%": 17.0,
+                    "AMOUNT": 31.13,
+                    "M.R.P.": 52.09,
+                    "BATCH NO": "25461474",
+                    "EXP.": "7/27",
+                    "N.RATE": 31.13
+                },
+                {
+                    "S.N.": 3,
+                    "PARTICULARS": "NEOSPORION POW",
+                    "HSN": "30049011",
+                    "PACK": "1*1",
+                    "QTY.": 1.0,
+                    "FREE": "9+1",
+                    "RATE": 81.64,
+                    "GST%": 5.0,
+                    "DISC%": 12.0,
+                    "AMOUNT": 67.9,
+                    "M.R.P.": 107.15,
+                    "BATCH NO": "R964",
+                    "EXP.": "8/27",
+                    "N.RATE": 67.9
+                },
+                {
+                    "S.N.": 4,
+                    "PARTICULARS": "STEMITIL MD",
+                    "HSN": "30049069",
+                    "PACK": "1X20",
+                    "QTY.": 1.0,
+                    "FREE": null,
+                    "RATE": 135.7,
+                    "GST%": 5.0,
+                    "DISC%": 15.0,
+                    "AMOUNT": 121.11,
+                    "M.R.P.": 178.1,
+                    "BATCH NO": "SEA25029",
+                    "EXP.": "3/27",
+                    "N.RATE": 121.11
+                },
+                {
+                    "S.N.": 5,
+                    "PARTICULARS": "MONOCEF SB 1GM",
+                    "HSN": "30049099",
+                    "PACK": "VAIL",
+                    "QTY.": 1.0,
+                    "FREE": "10+2",
+                    "RATE": 1662.5,
+                    "GST%": 5.0,
+                    "DISC%": 12.0,
+                    "AMOUNT": 41.7,
+                    "M.R.P.": 227.5,
+                    "BATCH NO": "DLH250298",
+                    "EXP.": "7/28",
+                    "N.RATE": 41.7
+                },
+                {
+                    "S.N.": 6,
+                    "PARTICULARS": "WIKORIL DROP",
+                    "HSN": "30049099",
+                    "PACK": "1X10ML",
+                    "QTY.": 1.0,
+                    "FREE": "10+1",
+                    "RATE": 90.29,
+                    "GST%": 5.0,
+                    "DISC%": 14.0,
+                    "AMOUNT": 74.11,
+                    "M.R.P.": 126.4,
+                    "BATCH NO": "2508000596",
+                    "EXP.": "4/27",
+                    "N.RATE": 74.11
+                },
+                {
+                    "S.N.": 7,
+                    "PARTICULARS": "PANTOP DSR CAP",
+                    "HSN": "30049069",
+                    "PACK": "1*10",
+                    "QTY.": 1.0,
+                    "FREE": null,
+                    "RATE": 172.5,
+                    "GST%": 5.0,
+                    "DISC%": 12.0,
+                    "AMOUNT": 159.4,
+                    "M.R.P.": 226.4,
+                    "BATCH NO": "SPH251195",
+                    "EXP.": "7/27",
+                    "N.RATE": 159.4
+                },
+                {
+                    "S.N.": 8,
+                    "PARTICULARS": "PIPZO 4.5 MG",
+                    "HSN": "30049091",
+                    "PACK": "VIOL",
+                    "QTY.": 1.0,
+                    "FREE": null,
+                    "RATE": 77.14,
+                    "GST%": 5.0,
+                    "DISC%": 0.0,
+                    "AMOUNT": 81.0,
+                    "M.R.P.": 326.22,
+                    "BATCH NO": "25443780",
+                    "EXP.": "8/27",
+                    "N.RATE": 81.0
+                },
+                {
+                    "S.N.": 9,
+                    "PARTICULARS": "CLAVAM BID SYP",
+                    "HSN": "30049069",
+                    "PACK": "30ML",
+                    "QTY.": 1.0,
+                    "FREE": "5+1",
+                    "RATE": 49.28,
+                    "GST%": 5.0,
+                    "DISC%": 14.0,
+                    "AMOUNT": 37.08,
+                    "M.R.P.": 68.99,
+                    "BATCH NO": "25444220",
+                    "EXP.": "10/27",
+                    "N.RATE": 37.08
+                },
+                {
+                    "S.N.": 10,
+                    "PARTICULARS": "A. TO Z.TAB",
+                    "HSN": "21069099",
+                    "PACK": "1*15",
+                    "QTY.": 1.0,
+                    "FREE": "9+1",
+                    "RATE": 130.17,
+                    "GST%": 5.0,
+                    "DISC%": 15.0,
+                    "AMOUNT": 104.56,
+                    "M.R.P.": 192.0,
+                    "BATCH NO": "25490785",
+                    "EXP.": "12/26",
+                    "N.RATE": 104.56
+                },
+                {
+                    "S.N.": 11,
+                    "PARTICULARS": "SUMOFLAM TAB",
+                    "HSN": "30049069",
+                    "PACK": "1*10",
+                    "QTY.": 1.0,
+                    "FREE": "9+1",
+                    "RATE": 174.97,
+                    "GST%": 5.0,
+                    "DISC%": 15.0,
+                    "AMOUNT": 140.55,
+                    "M.R.P.": 229.65,
+                    "BATCH NO": "25442770",
+                    "EXP.": "6/27",
+                    "N.RATE": 140.55
+                },
+                {
+                    "S.N.": 12,
+                    "PARTICULARS": "PAN-40 TAB",
+                    "HSN": "30049069",
+                    "PACK": "1X15",
+                    "QTY.": 1.0,
+                    "FREE": null,
+                    "RATE": 133.57,
+                    "GST%": 5.0,
+                    "DISC%": 15.0,
+                    "AMOUNT": 119.21,
+                    "M.R.P.": 187.0,
+                    "BATCH NO": "25443325",
+                    "EXP.": "1/28",
+                    "N.RATE": 119.21
+                },
+                {
+                    "S.N.": 13,
+                    "PARTICULARS": "STEMITIL-INJ",
+                    "HSN": "30049011",
+                    "PACK": "1X2ML",
+                    "QTY.": 1.0,
+                    "FREE": null,
+                    "RATE": 194.6,
+                    "GST%": 5.0,
+                    "DISC%": 15.0,
+                    "AMOUNT": 173.69,
+                    "M.R.P.": 25.55,
+                    "BATCH NO": "NCL0125",
+                    "EXP.": "5/28",
+                    "N.RATE": 173.69
+                },
+                {
+                    "S.N.": 14,
+                    "PARTICULARS": "ODOXIL 250MG TAB",
+                    "HSN": "30049069",
+                    "PACK": "1*10",
+                    "QTY.": 1.0,
+                    "FREE": "10+1",
+                    "RATE": 432.5,
+                    "GST%": 5.0,
+                    "DISC%": 18.0,
+                    "AMOUNT": 338.54,
+                    "M.R.P.": 60.55,
+                    "BATCH NO": "A25121ZP",
+                    "EXP.": "6/28",
+                    "N.RATE": 338.54
+                }
+            ]
+        },
+        "summary": {
+            "class_totals": [
+                {
+                    "GST%": 5.0,
+                    "CLASS TOTAL": 1784.95,
+                    "SCH. DISC.": 0.0,
+                    "SGST": 38.19,
+                    "CGST": 38.19,
+                    "TOTAL GST": 76.38
+                },
+                {
+                    "GST%": 12.0,
+                    "CLASS TOTAL": 0.0,
+                    "SCH. DISC.": 0.0,
+                    "SGST": 0.0,
+                    "CGST": 0.0,
+                    "TOTAL GST": 0.0
+                },
+                {
+                    "GST%": 18.0,
+                    "CLASS TOTAL": 0.0,
+                    "SCH. DISC.": 0.0,
+                    "SGST": 0.0,
+                    "CGST": 0.0,
+                    "TOTAL GST": 0.0
+                },
+                {
+                    "GST%": 28.0,
+                    "CLASS TOTAL": 0.0,
+                    "SCH. DISC.": 0.0,
+                    "SGST": 0.0,
+                    "CGST": 0.0,
+                    "TOTAL GST": 0.0
+                }
+            ],
+            "grand_total": {
+                "TOTAL": 1784.95,
+                "SCH. DISC.": 0.0,
+                "SGST": 38.19,
+                "CGST": 38.19,
+                "TOTAL GST": 76.38,
+                "amount_in_words": "Rs. Four Thousand Six Hundred and Thirty Eight only"
+            }
+        },
+        "footer": {
+            "terms_and_conditions": "Goods once sold will not be taken back or exchanged.",
+            "bank_details": {
+                "bank_name": "HDFC BANK",
+                "account_number": "50200033482057",
+                "ifsc": "HDFC0000723"
+            },
+            "additional_info": "Print HEALTH QRCODE on BILL & Earn | MARG ERP NANO @Rs.5400 | Click Photo & Import Bill, Call 9839838876,05224242542,05224242642"
+        },
+        "receiver": null,
+        "_extraction_method": "text_only",
+        "summary_table": {
+            "headers": [
+                "CLASS",
+                "TOTAL",
+                "SCH.",
+                "DISC",
+                "SGST",
+                "CGST",
+                "TOTAL GST"
+            ],
+            "rows": [
+                {
+                    "CLASS": "GST 5.00",
+                    "TOTAL": 4213.94,
+                    "SCH.": 0.0,
+                    "DISC": 540.95,
+                    "SGST": 91.84,
+                    "CGST": 91.84,
+                    "TOTAL GST": 183.68
+                },
+                {
+                    "CLASS": "GST 12.00",
+                    "TOTAL": 0.0,
+                    "SCH.": 0.0,
+                    "DISC": 0.0,
+                    "SGST": 0.0,
+                    "CGST": 0.0,
+                    "TOTAL GST": 0.0
+                },
+                {
+                    "CLASS": "GST 28.00",
+                    "TOTAL": 0.0,
+                    "SCH.": 0.0,
+                    "DISC": 0.0,
+                    "SGST": 0.0,
+                    "CGST": 0.0,
+                    "TOTAL GST": 0.0
+                },
+                {
+                    "CLASS": "TOTAL",
+                    "TOTAL": 4213.94,
+                    "SCH.": 0.0,
+                    "DISC": 540.95,
+                    "SGST": 91.84,
+                    "CGST": 91.84,
+                    "TOTAL GST": 183.68
+                }
+            ]
+        },
+        "metadata": {
+            "seller_details": {
+                "name": "SANA PHARMA",
+                "address": "SHOP NO.4 LGF, AJ PLAZA 110/22KA MEER JAAN LANE, NAYA GAON EAST, PO-AMINABAAD, LUCKNOW LUCKNOW",
+                "phone": "9621803963, 9598889428, 0522-4230853",
+                "license_no": null,
+                "gstin": "09DSKPK5474F1ZB",
+                "fl_no": null,
+                "vat_no": "09550061450",
+                "drug_license": "UP3220B004054 UP3221B004038"
+            },
+            "buyer_details": {
+                "name": "M/s KRISHNA PHARMA PBH",
+                "address": "RAJA PRATAP BAHADUR PARK, KUTCHERY ROAD, SADAR, PRATAPGARH UTTAR PRADESH 230001",
+                "phone": "9807770595",
+                "gstin": "09ADEPK7311D1ZV",
+                "license_no": "UP7220B000484 UP7221B000483",
+                "purchase_order": {
+                    "invoice_no": "SP003333",
+                    "date": "12-12-2025",
+                    "irn_no": null
+                }
+            },
+            "terms_conditions": "Goods once sold will not be taken back or exchanged.",
+            "bank_details": {
+                "bank_name": "HDFC BANK",
+                "account_no": "502000033482057",
+                "ifsc": "HDFC0000723"
+            },
+            "footer_note": "Print HEALTH QRCODE on BILL & Earn | MARG ERP NANO @Rs.5400 | Click Photo & Import Bill, Call 9839838876,05224242542,05224242642"
+        },
+        "total_amount": {
+            "in_words": "Four Thousand Six Hundred and Thirty Eight only",
+            "amount": 4213.94
+        },
+        "tax_summary": {
+            "gst_breakdown": [
+                {
+                    "gst_rate": 5.0,
+                    "class_total": 4213.94,
+                    "sch_disc": 0.0,
+                    "sgst": 91.84,
+                    "cgst": 91.84,
+                    "total_gst": 183.68
+                },
+                {
+                    "gst_rate": 12.0,
+                    "class_total": 0.0,
+                    "sch_disc": 0.0,
+                    "sgst": 0.0,
+                    "cgst": 0.0,
+                    "total_gst": 0.0
+                },
+                {
+                    "gst_rate": 18.0,
+                    "class_total": 0.0,
+                    "sch_disc": 0.0,
+                    "sgst": 0.0,
+                    "cgst": 0.0,
+                    "total_gst": 0.0
+                },
+                {
+                    "gst_rate": 28.0,
+                    "class_total": 0.0,
+                    "sch_disc": 0.0,
+                    "sgst": 0.0,
+                    "cgst": 0.0,
+                    "total_gst": 0.0
+                }
+            ],
+            "grand_total": {
+                "class_total": 4213.94,
+                "sch_disc": 0.0,
+                "sgst": 91.84,
+                "cgst": 91.84,
+                "total_gst": 183.68,
+                "total_amount_words": "Rs. Four Thousand Six Hundred and Thirty Eight only"
+            }
+        },
+        "table_data": {
+            "headers": [
+                "S.N.",
+                "PARTICULARS",
+                "HSN",
+                "PACK",
+                "QTY.",
+                "FREE",
+                "RATE",
+                "GST%",
+                "DISC%",
+                "AMOUNT",
+                "M.R.P.",
+                "BATCH NO",
+                "EXP.",
+                "N.RATE"
+            ],
+            "rows": [
+                {
+                    "S.N.": 5,
+                    "PARTICULARS": "TONOFERAN DROP",
+                    "HSN": "30049029",
+                    "PACK": "X15ML",
+                    "QTY.": 1,
+                    "FREE": 1,
+                    "RATE": 82.14,
+                    "GST%": 5,
+                    "DISC%": 14,
+                    "AMOUNT": 66.76,
+                    "M.R.P.": 107.81,
+                    "BATCH NO": "TD5044",
+                    "EXP.": "9/26",
+                    "N.RATE": 1784.95
+                },
+                {
+                    "S.N.": 16,
+                    "PARTICULARS": "AZEE 250MG TAB",
+                    "HSN": "30049069",
+                    "PACK": "1*6",
+                    "QTY.": 1,
+                    "FREE": 1,
+                    "RATE": 94.96,
+                    "GST%": 5,
+                    "DISC%": 16,
+                    "AMOUNT": 75.37,
+                    "M.R.P.": 124.63,
+                    "BATCH NO": "5SN1902",
+                    "EXP.": "8/28",
+                    "N.RATE": 75.37
+                },
+                {
+                    "S.N.": 17,
+                    "PARTICULARS": "MISOPROST 200TAB",
+                    "HSN": "30049099",
+                    "PACK": "1X4",
+                    "QTY.": 1,
+                    "FREE": 1,
+                    "RATE": 123.5,
+                    "GST%": 5,
+                    "DISC%": 4,
+                    "AMOUNT": 100.37,
+                    "M.R.P.": 81.05,
+                    "BATCH NO": "SGH0173",
+                    "EXP.": "9/26",
+                    "N.RATE": 100.37
+                },
+                {
+                    "S.N.": 18,
+                    "PARTICULARS": "BETONIN-200ML SYP",
+                    "HSN": "30049069",
+                    "PACK": "200ML",
+                    "QTY.": 1,
+                    "FREE": 1,
+                    "RATE": 189.07,
+                    "GST%": 5,
+                    "DISC%": 13,
+                    "AMOUNT": 172.71,
+                    "M.R.P.": 248.15,
+                    "BATCH NO": "FZ5016",
+                    "EXP.": "1/27",
+                    "N.RATE": 172.71
+                },
+                {
+                    "S.N.": 19,
+                    "PARTICULARS": "MEGAPAN-500MG Cap",
+                    "HSN": "30043200",
+                    "PACK": "cap",
+                    "QTY.": 1,
+                    "FREE": null,
+                    "RATE": 457.9,
+                    "GST%": 5,
+                    "DISC%": 2,
+                    "AMOUNT": 457.3,
+                    "M.R.P.": 72.18,
+                    "BATCH NO": "253784",
+                    "EXP.": "8/27",
+                    "N.RATE": 457.3
+                },
+                {
+                    "S.N.": 20,
+                    "PARTICULARS": "TAXIM-IGM",
+                    "HSN": "30042099",
+                    "PACK": "VAIL",
+                    "QTY.": 1,
+                    "FREE": 1,
+                    "RATE": 83.73,
+                    "GST%": 12,
+                    "DISC%": 16,
+                    "AMOUNT": 23.8,
+                    "M.R.P.": 42.67,
+                    "BATCH NO": "25461351",
+                    "EXP.": "12/27",
+                    "N.RATE": 23.8
+                },
+                {
+                    "S.N.": 21,
+                    "PARTICULARS": "CLAVAM DRY SYP",
+                    "HSN": "30049099",
+                    "PACK": "1*30ML",
+                    "QTY.": 1,
+                    "FREE": 1,
+                    "RATE": 50.16,
+                    "GST%": 5,
+                    "DISC%": 4,
+                    "AMOUNT": 37.75,
+                    "M.R.P.": 65.84,
+                    "BATCH NO": "25443857",
+                    "EXP.": "9/27",
+                    "N.RATE": 37.75
+                },
+                {
+                    "S.N.": 22,
+                    "PARTICULARS": "ONDEM MD-4MG TAB",
+                    "HSN": "30049069",
+                    "PACK": "1*10",
+                    "QTY.": 1,
+                    "FREE": 1,
+                    "RATE": 41.79,
+                    "GST%": 5,
+                    "DISC%": 5,
+                    "AMOUNT": 37.3,
+                    "M.R.P.": 58.51,
+                    "BATCH NO": "25442801",
+                    "EXP.": "6/27",
+                    "N.RATE": 37.3
+                },
+                {
+                    "S.N.": 23,
+                    "PARTICULARS": "ARISTOZYME SYS",
+                    "HSN": "30049069",
+                    "PACK": "250ML",
+                    "QTY.": 1,
+                    "FREE": 1,
+                    "RATE": 115.71,
+                    "GST%": 5,
+                    "DISC%": 2,
+                    "AMOUNT": 106.92,
+                    "M.R.P.": 151.87,
+                    "BATCH NO": "P251045",
+                    "EXP.": "1/27",
+                    "N.RATE": 106.92
+                },
+                {
+                    "S.N.": 24,
+                    "PARTICULARS": "MUMMYUM 1",
+                    "HSN": "21069099",
+                    "PACK": "400GM",
+                    "QTY.": 1,
+                    "FREE": 1,
+                    "RATE": 315.2,
+                    "GST%": 5,
+                    "DISC%": 14,
+                    "AMOUNT": 284.63,
+                    "M.R.P.": 413.7,
+                    "BATCH NO": "035G011",
+                    "EXP.": "9/26",
+                    "N.RATE": 284.63
+                },
+                {
+                    "S.N.": 25,
+                    "PARTICULARS": "GRILINTUS SYP",
+                    "HSN": "30049031",
+                    "PACK": "100ML",
+                    "QTY.": 1,
+                    "FREE": 1,
+                    "RATE": 101.37,
+                    "GST%": 5,
+                    "DISC%": 2,
+                    "AMOUNT": 74.93,
+                    "M.R.P.": 133.06,
+                    "BATCH NO": "CN175038",
+                    "EXP.": "11/26",
+                    "N.RATE": 74.93
+                },
+                {
+                    "S.N.": 26,
+                    "PARTICULARS": "AVIL 25 TAB",
+                    "HSN": "30049099",
+                    "PACK": "1X15",
+                    "QTY.": 1,
+                    "FREE": 1,
+                    "RATE": 157.6,
+                    "GST%": 5,
+                    "DISC%": 10,
+                    "AMOUNT": 715.94,
+                    "M.R.P.": 93.75,
+                    "BATCH NO": "5P1323A",
+                    "EXP.": "3/28",
+                    "N.RATE": 71.59
+                },
+                {
+                    "S.N.": 27,
+                    "PARTICULARS": "DECCAN .5MG TAB",
+                    "HSN": "30049069",
+                    "PACK": "BOX",
+                    "QTY.": 1,
+                    "FREE": null,
+                    "RATE": 94.29,
+                    "GST%": 5,
+                    "DISC%": 0,
+                    "AMOUNT": 99.01,
+                    "M.R.P.": 138.38,
+                    "BATCH NO": "WAL5092",
+                    "EXP.": "5/27",
+                    "N.RATE": 99.01
+                }
+            ]
+        },
+        "signatory": {
+            "name": "Sanjay Kanojia",
+            "designation": null,
+            "for": "SANA PHARMA"
+        },
+        "totals": {
+            "class_wise": [
+                {
+                    "CLASS": "GST 5.00",
+                    "TOTAL": 5051.95,
+                    "SCH": 0.0,
+                    "DISC": 634.42,
+                    "SGST": 110.45,
+                    "CGST": 110.45,
+                    "TOTAL_GST": 220.9
+                },
+                {
+                    "CLASS": "GST 0.00",
+                    "TOTAL": 0.0,
+                    "SCH": 0.0,
+                    "DISC": 0.0,
+                    "SGST": 0.0,
+                    "CGST": 0.0,
+                    "TOTAL_GST": 0.0
+                },
+                {
+                    "CLASS": "GST 12.00",
+                    "TOTAL": 0.0,
+                    "SCH": 0.0,
+                    "DISC": 0.0,
+                    "SGST": 0.0,
+                    "CGST": 0.0,
+                    "TOTAL_GST": 0.0
+                },
+                {
+                    "CLASS": "GST 18.00",
+                    "TOTAL": 0.0,
+                    "SCH": 0.0,
+                    "DISC": 0.0,
+                    "SGST": 0.0,
+                    "CGST": 0.0,
+                    "TOTAL_GST": 0.0
+                },
+                {
+                    "CLASS": "GST 28.00",
+                    "TOTAL": 0.0,
+                    "SCH": 0.0,
+                    "DISC": 0.0,
+                    "SGST": 0.0,
+                    "CGST": 0.0,
+                    "TOTAL_GST": 0.0
+                }
+            ],
+            "grand_totals": {
+                "SUB_TOTAL": 4417.53,
+                "SGST_PAYABLE": 110.45,
+                "CGST_PAYABLE": 110.45,
+                "ADD_LESS": 0.0,
+                "CR_DR_NOTE": 0.0,
+                "GRAND_TOTAL": {
+                    "amount": 4638.0,
+                    "text": "Rs. Four Thousand Six Hundred And Thirty Eight only"
+                }
+            }
+        },
+        "table": {
+            "headers": [
+                "S.N.",
+                "PARTICULARS",
+                "HSN",
+                "PACK",
+                "QTY.",
+                "FREE",
+                "RATE",
+                "GST%",
+                "DISC%",
+                "AMOUNT",
+                "M.R.P.",
+                "BATCH NO",
+                "EXP.",
+                "N.RATE"
+            ],
+            "rows": [
+                {
+                    "S.N.": 28,
+                    "PARTICULARS": "NOPILE CAP",
+                    "HSN": "30049069",
+                    "PACK": "1*30",
+                    "QTY.": 1.0,
+                    "FREE": null,
+                    "RATE": 125.71,
+                    "GST%": 5.0,
+                    "DISC%": 0.0,
+                    "AMOUNT": 131.99,
+                    "M.R.P.": null,
+                    "BATCH NO": "PC2503",
+                    "EXP.": "7/28",
+                    "N.RATE": 131.99
+                },
+                {
+                    "S.N.": 29,
+                    "PARTICULARS": "ZIFI 50ML SYS",
+                    "HSN": "30049031",
+                    "PACK": "1X30ML",
+                    "QTY.": 1.0,
+                    "FREE": "5+1",
+                    "RATE": 39.79,
+                    "GST%": 5.0,
+                    "DISC%": 12.0,
+                    "AMOUNT": 30.64,
+                    "M.R.P.": null,
+                    "BATCH NO": "015H025",
+                    "EXP.": "1/27",
+                    "N.RATE": 30.64
+                },
+                {
+                    "S.N.": 30,
+                    "PARTICULARS": "NEOSPORIN OINT 10GM",
+                    "HSN": "30049069",
+                    "PACK": "1X10GM",
+                    "QTY.": 1.0,
+                    "FREE": null,
+                    "RATE": 103.39,
+                    "GST%": 5.0,
+                    "DISC%": 12.0,
+                    "AMOUNT": 85.98,
+                    "M.R.P.": 135.71,
+                    "BATCH NO": "R266",
+                    "EXP.": "6/27",
+                    "N.RATE": 85.98
+                },
+                {
+                    "S.N.": 31,
+                    "PARTICULARS": "PANTOP-IT CAP",
+                    "HSN": "30049069",
+                    "PACK": "1X10",
+                    "QTY.": 1.0,
+                    "FREE": null,
+                    "RATE": 186.43,
+                    "GST%": 5.0,
+                    "DISC%": 12.0,
+                    "AMOUNT": 172.26,
+                    "M.R.P.": 261.0,
+                    "BATCH NO": "A08332504",
+                    "EXP.": "9/27",
+                    "N.RATE": 172.26
+                },
+                {
+                    "S.N.": 32,
+                    "PARTICULARS": "SIMYL-MCT 400GM",
+                    "HSN": "21069099",
+                    "PACK": "1X400GM",
+                    "QTY.": 1.0,
+                    "FREE": null,
+                    "RATE": 444.07,
+                    "GST%": 5.0,
+                    "DISC%": 4.0,
+                    "AMOUNT": 360.89,
+                    "M.R.P.": 555.0,
+                    "BATCH NO": "033J008",
+                    "EXP.": "12/26",
+                    "N.RATE": 350.89
+                }
+            ],
+            "summary": {
+                "TOTAL_QTY": 32,
+                "TOTAL_BF": {
+                    "amount": 240.0,
+                    "annotation": "AN/PC2503"
+                },
+                "TOTAL_AMOUNT": {
+                    "amount": 4213.94,
+                    "text": "4213.94"
+                }
+            }
+        },
+        "terms_and_conditions": [
+            "Goods once sold will not be returned or exchanged",
+            "Bills Not Paid Within 30 Days will attract 24% interest"
+        ],
+        "footer_notes": [
+            "Print HEALTH QRCODE on BILL & Earn | MARG ERP NANO @Rs.5400",
+            "Click Photo & Import Bill, Call 9839838876,05224242542,05224242642"
+        ],
+        "bank_details": {
+            "bank_name": "HDFC BANK",
+            "account_number": "50200033482057",
+            "ifsc": "HDFC0000723"
+        }
+    },
+    "items": [
+        {
+            "s_no": 28,
+            "particulars": "NOPILE CAP",
+            "hsn": "30049069",
+            "pack": "1*30",
+            "qty": 1.0,
+            "free": null,
+            "rate": 125.71,
+            "gst_percent": 5.0,
+            "disc_percent": 0.0,
+            "amount": 131.99,
+            "m_r_p": 240.0,
+            "batch_no": "ANPC2503",
+            "exp": "7/28",
+            "n_rate": 131.99
+        },
+        {
+            "s_no": 29,
+            "particulars": "ZIFI 50ML SYS",
+            "hsn": "30049031",
+            "pack": "1X30ML",
+            "qty": 1.0,
+            "free": "5+1",
+            "rate": 39.79,
+            "gst_percent": 5.0,
+            "disc_percent": 12.0,
+            "amount": 30.64,
+            "m_r_p": 55.7,
+            "batch_no": "015H025",
+            "exp": "1/27",
+            "n_rate": 30.64
+        },
+        {
+            "s_no": 30,
+            "particulars": "NEOSPORIN OINT 10GM",
+            "hsn": "30049069",
+            "pack": "1X10GM",
+            "qty": 1.0,
+            "free": "9+1",
+            "rate": 103.39,
+            "gst_percent": 5.0,
+            "disc_percent": 12.0,
+            "amount": 85.98,
+            "m_r_p": 135.71,
+            "batch_no": "R266",
+            "exp": "6/27",
+            "n_rate": 85.98
+        },
+        {
+            "s_no": 31,
+            "particulars": "PANTOP-IT CAP",
+            "hsn": "30049069",
+            "pack": "1X10",
+            "qty": 1.0,
+            "free": null,
+            "rate": 186.43,
+            "gst_percent": 5.0,
+            "disc_percent": 12.0,
+            "amount": 172.26,
+            "m_r_p": "261.00",
+            "batch_no": "A08332504",
+            "exp": "9/27",
+            "n_rate": 172.26,
+            "validation_warnings": [
+                "M.R.P. and Batch No. appear concatenated ('261.00A08332504') - split manually if needed"
+            ]
+        },
+        {
+            "s_no": 32,
+            "particulars": "SIMYL-MCT 400GM",
+            "hsn": "21069099",
+            "pack": "1X400GM",
+            "qty": 1.0,
+            "free": "9+1",
+            "rate": 444.07,
+            "gst_percent": 5.0,
+            "disc_percent": 14.0,
+            "amount": 360.89,
+            "m_r_p": 655.0,
+            "batch_no": "033J008",
+            "exp": "12/26",
+            "n_rate": 360.89
+        }
+    ],
+    "metadata": {
+        "total_pages": 3,
+        "extraction_methods": [
+            "text_only",
+            "dual_pass"
+        ],
+        "page_summary": [
+            {
+                "page_number": 1,
+                "extraction_method": "text_only",
+                "items_count": 0,
+                "has_items": false
+            },
+            {
+                "page_number": 2,
+                "extraction_method": "dual_pass",
+                "items_count": 0,
+                "has_items": false
+            },
+            {
+                "page_number": 3,
+                "extraction_method": "dual_pass",
+                "items_count": 5,
+                "has_items": true
+            }
+        ],
+        "deduplication_stats": {
+            "original_count": 5,
+            "deduplicated_count": 5,
+            "duplicates_removed": 0
+        },
+        "extraction_confidence": 0.95,
+        "document_type": "GST Invoice"
+    }
+}

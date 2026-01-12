@@ -4,12 +4,18 @@ python-multipart
 python-dotenv
 streamlit
 requests
-openai
-python-poppler==0.4.1
+mistralai
 pdfminer.six==20221105
 pdf2image==1.17.0
 pytesseract==0.3.10
 Pillow
 pdfplumber
+
+docling>=2.67.0
+docling-core>=2.0.0
+
+# LLM Orchestration & Structured Output
+instructor>=1.14.0
+google-genai>=1.0.0
 
 

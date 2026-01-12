@@ -1,0 +1,387 @@
+{
+    "headers": {
+        "metadata": {
+            "overlapping_detected": false,
+            "validation_warnings": []
+        },
+        "header": {
+            "supplier": {
+                "name": "S M DISTRIBUTORS",
+                "address": "CIRCUS MAIDAN, WORD NO-2, ARAMBAGH, HOOGHLY(W.B)",
+                "location": "HOOGHLY, ARAMBAGH-712601",
+                "phone": "9735045551/2",
+                "email": "smdarambagh@gmail.com",
+                "fssai": "12821007000159",
+                "gstin": "19EFJPS6104H1Z4",
+                "dl_no": "DL(BD)HLY/ARM/111SW",
+                "pan_no": "EFJPS6104H",
+                "cin_no": "U19EFJPS6104H1Z4"
+            },
+            "buyer": {
+                "name": "S.B HEALTH CARE",
+                "address": "NALIKUL STATION BAZAR, NALIKUL, HARIPAL, NALIKUL Pin-712407",
+                "mobile": "9163434379",
+                "gstin": "19AGZPD9661M1ZA",
+                "fssai": null,
+                "dl_no": "HLV/CDN/144 SW/145 SBW",
+                "pan_no": null,
+                "state_code": "19",
+                "state_name": "WEST BENGAL"
+            },
+            "invoice_details": {
+                "invoice_no": "25000730057463",
+                "invoice_date": "10-12-2025",
+                "due_date": null,
+                "order_no": null,
+                "order_date": null,
+                "sales_executive": "205 ANUP KUNDU",
+                "sales_ex_mobile": "9832283168",
+                "store_code": "STR001",
+                "code": "18887",
+                "cash_copy": "CASH COPY"
+            }
+        },
+        "items_table": {
+            "headers": [
+                "Mfac/ Mkt By",
+                "Rack No",
+                "Item Description",
+                "Pack",
+                "HSN / SAC Code",
+                "Quantity Billed",
+                "Free/ Repl",
+                "Batch",
+                "Exp Date",
+                "M.R.P",
+                "Trade Price",
+                "Sch %",
+                "Disc %",
+                "Disc Amt",
+                "Taxable Value",
+                "GST Rate",
+                "GST Amt",
+                "Net Value"
+            ],
+            "rows": [
+                {
+                    "Mfac/ Mkt By": "MAR",
+                    "Rack No": "AA144",
+                    "Item Description": "DROTIN-PLUS TABS. 10TAB",
+                    "Pack": "10TAB",
+                    "HSN / SAC Code": "30031000",
+                    "Quantity Billed": 6,
+                    "Free/ Repl": null,
+                    "Batch": "TDPR504",
+                    "Exp Date": "05-27",
+                    "M.R.P": 229.93,
+                    "Trade Price": 175.19,
+                    "Sch %": 0.0,
+                    "Disc %": 8.0,
+                    "Disc Amt": 84.09,
+                    "Taxable Value": 967.05,
+                    "GST Rate": 5.0,
+                    "GST Amt": 48.36,
+                    "Net Value": 1015.41
+                },
+                {
+                    "Mfac/ Mkt By": "STR",
+                    "Rack No": "A534",
+                    "Item Description": "SUCRAAL-ANO CREAM, 20GM",
+                    "Pack": "20GM",
+                    "HSN / SAC Code": "30049099",
+                    "Quantity Billed": 6,
+                    "Free/ Repl": null,
+                    "Batch": "SAC781025",
+                    "Exp Date": "03-28",
+                    "M.R.P": 145.31,
+                    "Trade Price": 110.71,
+                    "Sch %": 0.0,
+                    "Disc %": 8.0,
+                    "Disc Amt": 53.14,
+                    "Taxable Value": 611.12,
+                    "GST Rate": 5.0,
+                    "Net Value": 641.68
+                },
+                {
+                    "Mfac/ Mkt By": "SYS",
+                    "Rack No": "AA155",
+                    "Item Description": "ROSYS-5 TAB, 10TAB",
+                    "Pack": "10TAB",
+                    "HSN / SAC Code": "30049079",
+                    "Quantity Billed": 5,
+                    "Free/ Repl": 2,
+                    "Batch": "RF020825",
+                    "Exp Date": "07-27",
+                    "M.R.P": 38.43,
+                    "Trade Price": 29.28,
+                    "Sch %": 0.0,
+                    "Disc %": 8.0,
+                    "Disc Amt": 11.71,
+                    "Taxable Value": 134.69,
+                    "GST Rate": 5.0,
+                    "GST Amt": 6.74,
+                    "Net Value": 141.43
+                },
+                {
+                    "Mfac/ Mkt By": "SYS",
+                    "Rack No": "AA155",
+                    "Item Description": "VOGS-0.2 TAB, 10TAB",
+                    "Pack": "10TAB",
+                    "HSN / SAC Code": "30043190",
+                    "Quantity Billed": 5,
+                    "Free/ Repl": null,
+                    "Batch": "SV1505",
+                    "Exp Date": "06-28",
+                    "M.R.P": 81.56,
+                    "Trade Price": 62.14,
+                    "Sch %": 0.0,
+                    "Disc %": 8.0,
+                    "Disc Amt": 24.86,
+                    "Taxable Value": 285.84,
+                    "GST Rate": 5.0,
+                    "GST Amt": 14.3,
+                    "Net Value": 300.14
+                },
+                {
+                    "Mfac/ Mkt By": "TOR",
+                    "Rack No": "AA238",
+                    "Item Description": "AMPOXIN-250 CAP, 15CAP",
+                    "Pack": "15CAP",
+                    "HSN / SAC Code": "30041030",
+                    "Quantity Billed": 10,
+                    "Free/ Repl": null,
+                    "Batch": "MFU9M013",
+                    "Exp Date": "05-27",
+                    "M.R.P": 64.3,
+                    "Trade Price": 48.99,
+                    "Sch %": 5.0,
+                    "Disc %": 8.0,
+                    "Disc Amt": 39.19,
+                    "Taxable Value": 450.71,
+                    "GST Rate": 5.0,
+                    "GST Amt": 21.4,
+                    "Net Value": 449.57
+                },
+                {
+                    "Mfac/ Mkt By": "TOR",
+                    "Rack No": "AA227",
+                    "Item Description": "AZULIX-3 TAB, 10TA",
+                    "Pack": "10 TAB",
+                    "HSN / SAC Code": "30049099",
+                    "Quantity Billed": 3,
+                    "Free/ Repl": null,
+                    "Batch": "2991L006",
+                    "Exp Date": "09-26",
+                    "M.R.P": 152.81,
+                    "Trade Price": 116.43,
+                    "Sch %": 0.0,
+                    "Disc %": 8.0,
+                    "Disc Amt": 27.94,
+                    "Taxable Value": 321.35,
+                    "GST Rate": 5.0,
+                    "GST Amt": 16.06,
+                    "Net Value": 337.41
+                },
+                {
+                    "Mfac/ Mkt By": "TOR",
+                    "Rack No": "AA190",
+                    "Item Description": "DEPLATT-150 TAB, 10TA",
+                    "Pack": "10 TAB",
+                    "HSN / SAC Code": "30049099",
+                    "Quantity Billed": 3,
+                    "Free/ Repl": null,
+                    "Batch": "2X28M001",
+                    "Exp Date": "03-27",
+                    "M.R.P": 206.23,
+                    "Trade Price": 157.13,
+                    "Sch %": 0.0,
+                    "Disc %": 8.0,
+                    "Disc Amt": 37.71,
+                    "Taxable Value": 433.68,
+                    "GST Rate": 5.0,
+                    "GST Amt": 21.68,
+                    "Net Value": 455.36
+                },
+                {
+                    "Mfac/ Mkt By": "TOR",
+                    "Rack No": "AA173",
+                    "Item Description": "DEPLATT-CV 40 CAP, 10CAP",
+                    "Pack": "10CAP",
+                    "HSN / SAC Code": "30049099",
+                    "Quantity Billed": 3,
+                    "Free/ Repl": null,
+                    "Batch": "WBDLF010",
+                    "Exp Date": "12-26",
+                    "M.R.P": 179.8,
+                    "Trade Price": 136.99,
+                    "Sch %": 0.0,
+                    "Disc %": 8.0,
+                    "Disc Amt": 32.88,
+                    "Taxable Value": 378.09,
+                    "GST Rate": 5.0,
+                    "GST Amt": 18.9,
+                    "Net Value": 396.99
+                },
+                {
+                    "Mfac/ Mkt By": "TOR",
+                    "Rack No": "D001",
+                    "Item Description": "NIKORAN OD-20 TAB, 20TA",
+                    "Pack": "20TAB",
+                    "HSN / SAC Code": "30049099",
+                    "Quantity Billed": 2,
+                    "Free/ Repl": null,
+                    "Batch": "C821M002",
+                    "Exp Date": "10-26",
+                    "M.R.P": 652.15,
+                    "Trade Price": 496.88,
+                    "Sch %": 0.0,
+                    "Disc %": 8.0,
+                    "Disc Amt": 79.5,
+                    "Taxable Value": 914.26,
+                    "GST Rate": 5.0,
+                    "GST Amt": 45.72,
+                    "Net Value": 959.98
+                },
+                {
+                    "Mfac/ Mkt By": "TOR",
+                    "Rack No": "A520",
+                    "Item Description": "PERMITE CREAM, 60GM",
+                    "Pack": "60GM",
+                    "HSN / SAC Code": "30045090",
+                    "Quantity Billed": 3,
+                    "Free/ Repl": null,
+                    "Batch": "5LK38",
+                    "Exp Date": "06-27",
+                    "M.R.P": 118.4,
+                    "Trade Price": 90.21,
+                    "Sch %": 0.0,
+                    "Disc %": 8.0,
+                    "Disc Amt": 21.65,
+                    "Taxable Value": 248.98,
+                    "GST Rate": 5.0,
+                    "GST Amt": 12.44,
+                    "Net Value": 261.42
+                },
+                {
+                    "Mfac/ Mkt By": "TOR",
+                    "Rack No": "AA216",
+                    "Item Description": "TG-TOR-20 TAB, 15TAB",
+                    "Pack": "15TAB",
+                    "HSN / SAC Code": "30049099",
+                    "Quantity Billed": 3,
+                    "Free/ Repl": null,
+                    "Batch": "2E88M002",
+                    "Exp Date": "01-27",
+                    "M.R.P": 197.78,
+                    "Trade Price": 150.69,
+                    "Sch %": 0.0,
+                    "Disc %": 8.0,
+                    "Disc Amt": 36.17,
+                    "Taxable Value": 415.9,
+                    "GST Rate": 5.0,
+                    "GST Amt": 20.8,
+                    "Net Value": 436.7
+                }
+            ],
+            "non_supplied_items": [
+                {
+                    "Item Description": "SHELCAL-M TAB, 15TAB"
+                }
+            ]
+        },
+        "summary": {
+            "amount_in_words": "Five Thousand Three Hundred Ninety Six Rupees only",
+            "total_items": 11,
+            "total_quantity": 49,
+            "total_mrp_value": 7363.75,
+            "tax_breakdown": {
+                "taxable_5_percent": {
+                    "taxable_value": 5139.13,
+                    "cgst_rate": 2.5,
+                    "cgst_amt": 128.48,
+                    "sgst_rate": 2.5,
+                    "sgst_amt": 128.48
+                },
+                "taxable_12_percent": {
+                    "taxable_value": 0.0,
+                    "cgst_rate": 6.0,
+                    "cgst_amt": 0.0,
+                    "sgst_rate": 6.0,
+                    "sgst_amt": 0.0
+                },
+                "taxable_18_percent": {
+                    "taxable_value": 0.0,
+                    "cgst_rate": 9.0,
+                    "cgst_amt": 0.0,
+                    "sgst_rate": 9.0,
+                    "sgst_amt": 0.0
+                },
+                "taxable_28_percent": {
+                    "taxable_value": 0.0,
+                    "cgst_rate": 14.0,
+                    "cgst_amt": 0.0,
+                    "sgst_rate": 14.0,
+                    "sgst_amt": 0.0
+                }
+            },
+            "totals": {
+                "sub_total": 5586.01,
+                "discount_amount": 446.88,
+                "gst_tax": 256.96,
+                "round_off": -0.1,
+                "grand_total": 5396.0
+            },
+            "payment_info": {
+                "route": "R00",
+                "cash_discount_given": 446.88,
+                "scheme_discount_given": 24.5,
+                "print_time": "18:57",
+                "total_tax_amount": 256.96,
+                "total_bills": 1
+            },
+            "footer_details": {
+                "ack_no_and_date": "182521003682596 11-12-2025",
+                "checked_by": "PINTU",
+                "tray_no": "1057",
+                "irm_no": "ce92d3811cc459d8b5e395c3665c194c497953ae15c8658828908161559e2ed",
+                "for": "S M DISTRIBUTORS"
+            },
+            "pending_bills": {
+                "bill_no": null,
+                "bill_date": "10-12-2025",
+                "o_s_amount_days": "0 / 5396.00 / 0"
+            }
+        },
+        "distributor_copy": {
+            "header": {
+                "name": "S M DISTRIBUTORS",
+                "address": "CIRCUS MAIDAN, WORD NO-2, ARAMBAGH, HOOGHLY(W.B)",
+                "gstin": "19EFJPS6104H1Z4",
+                "invoice_no": "5000730057463",
+                "invoice_date": "10-12-25",
+                "area": "A022 NALIKUL",
+                "code": "18887",
+                "sales_executive": "205 ANUP KUNDU",
+                "cash_copy": "CASH"
+            }
+        },
+        "_extraction_method": "vision_only"
+    },
+    "items": [],
+    "metadata": {
+        "total_pages": 1,
+        "extraction_methods": [
+            "vision_only"
+        ],
+        "page_summary": [
+            {
+                "page_number": 1,
+                "extraction_method": "vision_only",
+                "items_count": 0,
+                "has_items": false
+            }
+        ],
+        "extraction_confidence": 0.95,
+        "document_type": "invoice"
+    }
+}

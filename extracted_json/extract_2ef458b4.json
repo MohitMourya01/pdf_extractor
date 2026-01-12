@@ -1,0 +1,492 @@
+{
+    "headers": {
+        "items_table": {
+            "headers": {
+                "mfg_cat_code": "M Mkfa t c B/ yRa Nc ok",
+                "item_code": "Item Code",
+                "item_description": "Item Description",
+                "pack": "Pack",
+                "h_ss": "H /SS",
+                "billed_qty": "Billed",
+                "free_qty": "Free/",
+                "batch": "Batch",
+                "exp_date": "DE",
+                "mfg_date": "ax tp e",
+                "mrp": "M.R.P",
+                "ptr": "P ra rid ce e",
+                "scheme_disc_percent": "S %ch D",
+                "disc_percent": "D %isc D",
+                "amount": "Ai msc t Ta Vx aa lub ele",
+                "rate": "Rate",
+                "net_value": "Net Value"
+            },
+            "rows": [
+                {
+                    "mfg_cat_code": "MAR AA144",
+                    "item_description": "DROTIN-PLUS TABS.",
+                    "pack": "10TAB",
+                    "h_ss": "10TAB",
+                    "billed_qty": 6,
+                    "free_qty": 0,
+                    "batch": "TDPR-504",
+                    "exp_date": "30031000",
+                    "mfg_date": null,
+                    "mrp": 22590.09,
+                    "ptr": 9038.0,
+                    "scheme_disc_percent": 0.0,
+                    "disc_percent": 8.0,
+                    "amount": 17259.91,
+                    "rate": 693.05,
+                    "net_value": 1015.41,
+                    "validation_warnings": [
+                        "MRP (22590.09) seems unusually high for 10 tablets."
+                    ]
+                },
+                {
+                    "mfg_cat_code": "STR A534",
+                    "item_description": "SUCRAL-ANO CREAM.",
+                    "pack": "20GM",
+                    "h_ss": "20GM",
+                    "billed_qty": 6,
+                    "free_qty": 0,
+                    "batch": "SAC781025",
+                    "exp_date": "30049099",
+                    "mfg_date": null,
+                    "mrp": 42550.3,
+                    "ptr": 10800.0,
+                    "scheme_disc_percent": 0.0,
+                    "disc_percent": 8.0,
+                    "amount": 101208.77,
+                    "rate": 611.12,
+                    "net_value": 641.68,
+                    "validation_warnings": [
+                        "MRP (42550.30) seems unusually high for 20GM cream."
+                    ]
+                },
+                {
+                    "mfg_cat_code": "SYS AA155",
+                    "item_description": "ROSYS-5 TAB.",
+                    "pack": "10TAB",
+                    "h_ss": "10TAB",
+                    "billed_qty": 5,
+                    "free_qty": 0,
+                    "batch": "RF020825",
+                    "exp_date": "30049079",
+                    "mfg_date": null,
+                    "mrp": 23580.04,
+                    "ptr": 4038.0,
+                    "scheme_disc_percent": 0.0,
+                    "disc_percent": 8.0,
+                    "amount": 2298.02,
+                    "rate": 134.69,
+                    "net_value": 141.43
+                },
+                {
+                    "mfg_cat_code": "SYS AA155",
+                    "item_description": "VOGS-0.2 TAB.",
+                    "pack": "10TAB",
+                    "h_ss": "10TAB",
+                    "billed_qty": 5,
+                    "free_qty": 0,
+                    "batch": "SVJ505",
+                    "exp_date": "30043190",
+                    "mfg_date": null,
+                    "mrp": 258010.05,
+                    "ptr": 8600.0,
+                    "scheme_disc_percent": 0.0,
+                    "disc_percent": 8.0,
+                    "amount": 26820.21,
+                    "rate": 285.84,
+                    "net_value": 300.14,
+                    "validation_warnings": [
+                        "MRP (258010.05) seems extremely high for 10 tablets."
+                    ]
+                },
+                {
+                    "mfg_cat_code": "TOR AA238",
+                    "item_description": "AMPOXIN-250 CAP.",
+                    "pack": "15CAP",
+                    "h_ss": "15CAP",
+                    "billed_qty": 10,
+                    "free_qty": 0,
+                    "batch": "MFU9M013",
+                    "exp_date": "30041030",
+                    "mfg_date": null,
+                    "mrp": 6245.03,
+                    "ptr": 800.0,
+                    "scheme_disc_percent": 0.0,
+                    "disc_percent": 8.0,
+                    "amount": 4287.96,
+                    "rate": 450.71,
+                    "net_value": 449.57
+                },
+                {
+                    "mfg_cat_code": "TOR AA227",
+                    "item_description": "AZULIX-3 TAB.",
+                    "pack": "10TA",
+                    "h_ss": "10 TAB",
+                    "billed_qty": 3,
+                    "free_qty": 0,
+                    "batch": "2991L006",
+                    "exp_date": "30049099",
+                    "mfg_date": null,
+                    "mrp": 245020.8,
+                    "ptr": 8100.0,
+                    "scheme_disc_percent": 0.0,
+                    "disc_percent": 8.0,
+                    "amount": 141164.44,
+                    "rate": 321.35,
+                    "net_value": 337.41,
+                    "validation_warnings": [
+                        "MRP (245020.80) seems extremely high for 10 tablets."
+                    ]
+                },
+                {
+                    "mfg_cat_code": "TOR AA190",
+                    "item_description": "DEPLATT-150 TAB.",
+                    "pack": "10TA",
+                    "h_ss": "10 TAB",
+                    "billed_qty": 3,
+                    "free_qty": 0,
+                    "batch": "2X28M001",
+                    "exp_date": "30049099",
+                    "mfg_date": null,
+                    "mrp": 20560.02,
+                    "ptr": 3800.0,
+                    "scheme_disc_percent": 0.0,
+                    "disc_percent": 8.0,
+                    "amount": 115576.12,
+                    "rate": 433.68,
+                    "net_value": 455.36,
+                    "validation_warnings": [
+                        "Amount (115576.12) seems inconsistent with MRP and quantity."
+                    ]
+                },
+                {
+                    "mfg_cat_code": "TOR AA173",
+                    "item_description": "DEPLATT-CV 40 CAP.",
+                    "pack": "10CAP",
+                    "h_ss": "10CAP",
+                    "billed_qty": 3,
+                    "free_qty": 1,
+                    "batch": "WBDLF010",
+                    "exp_date": "30049099",
+                    "mfg_date": null,
+                    "mrp": 7295.08,
+                    "ptr": 800.0,
+                    "scheme_disc_percent": 0.0,
+                    "disc_percent": 8.0,
+                    "amount": 3268.99,
+                    "rate": 378.09,
+                    "net_value": 396.99
+                },
+                {
+                    "mfg_cat_code": "TOR D001",
+                    "item_description": "NIKORAN OD-20 TAB.",
+                    "pack": "20TA",
+                    "h_ss": "20TAB",
+                    "billed_qty": 2,
+                    "free_qty": 10,
+                    "batch": "C821M002",
+                    "exp_date": "30049099",
+                    "mfg_date": null,
+                    "mrp": 25520.01,
+                    "ptr": 5800.0,
+                    "scheme_disc_percent": 0.0,
+                    "disc_percent": 8.0,
+                    "amount": 409267.78,
+                    "rate": 914.26,
+                    "net_value": 959.98,
+                    "validation_warnings": [
+                        "Free quantity (10) exceeds billed quantity (2).",
+                        "Amount (409267.78) seems inconsistent with MRP and quantity."
+                    ]
+                },
+                {
+                    "mfg_cat_code": "TOR A520",
+                    "item_description": "PERMITE CREAM.",
+                    "pack": "60GM",
+                    "h_ss": "60GM",
+                    "billed_qty": 3,
+                    "free_qty": 0,
+                    "batch": "5LK38",
+                    "exp_date": "30045090",
+                    "mfg_date": null,
+                    "mrp": 1510800.48,
+                    "ptr": 0.0,
+                    "scheme_disc_percent": 0.0,
+                    "disc_percent": 8.0,
+                    "amount": 279606.25,
+                    "rate": 248.98,
+                    "net_value": 261.42,
+                    "validation_warnings": [
+                        "MRP (1510800.48) seems extremely high for 60GM cream.",
+                        "PTR (0.00) is missing or zero."
+                    ]
+                },
+                {
+                    "mfg_cat_code": "TOR AA216",
+                    "item_description": "TG-TOR-20 TAB.",
+                    "pack": "15TAB",
+                    "h_ss": "15 TAB",
+                    "billed_qty": 1,
+                    "free_qty": 0,
+                    "batch": "2EB8M002",
+                    "exp_date": "30049099",
+                    "mfg_date": null,
+                    "mrp": 29570.07,
+                    "ptr": 8800.0,
+                    "scheme_disc_percent": 0.0,
+                    "disc_percent": 8.0,
+                    "amount": 105500.06,
+                    "rate": 415.9,
+                    "net_value": 436.7,
+                    "validation_warnings": [
+                        "Amount (105500.06) seems inconsistent with MRP and quantity."
+                    ]
+                }
+            ],
+            "non_supplied_items": [
+                {
+                    "item_description": "SHELCAL-M TAB.",
+                    "pack": "15TAB"
+                }
+            ],
+            "summary": {
+                "tot_items": 11,
+                "tot_qty": 49,
+                "mrp_value": 7363.75,
+                "sale_value": 5610.51,
+                "sch_disc_given": 24.5,
+                "disc_amt": 446.88,
+                "gst_tax_amt": 256.96,
+                "sub_total": 5586.01,
+                "net_amount": 5396.0,
+                "round_off": -0.1,
+                "grand_total": 5396.0,
+                "amount_in_words": "Five Thousand Three Hundred Ninety Six Rupees only"
+            }
+        },
+        "metadata": {
+            "overlapping_detected": false,
+            "validation_warnings": []
+        },
+        "header": {
+            "supplier": {
+                "name": "S M DISTRIBUTORS",
+                "code": "18887 205",
+                "address": {
+                    "line1": "CIRCUS MAIDAN, WORD NO-2, ARAMBAGH,,,",
+                    "line2": "CIRCUS MAIDAN, WORD NO-2, ARAMBAGH,,, HOOGHLY(W.B)",
+                    "line3": "NALIKUL STATION BAZAR. HOOGHLY",
+                    "line4": "973504555-1/2 , DANKUNI-SHEAKHALA-JANGIPARA",
+                    "line5": "HOOGHLY,ARAMBAGH-712601",
+                    "pin": "712601"
+                },
+                "contact": {
+                    "phone": "973504555-1/2",
+                    "mobile": "9163434379",
+                    "email": "s1m28d2a1ra0m07b0a0g0h1@59gmail.com"
+                },
+                "identifiers": {
+                    "gst_no": "19EFJPS6104H1Z4",
+                    "pan_no": "EFJPS6104H",
+                    "cin_no": null,
+                    "fssai": null,
+                    "dl_no": [
+                        "HLY/CDN/144 SW/145 SBW",
+                        "DL(BD)HLY/ARM/111SW",
+                        "DL(BD)HLY/ARM/112SBW"
+                    ]
+                }
+            },
+            "customer": {
+                "name": "S.B HEALTH CARE",
+                "address": {
+                    "line1": "NALIKUL STATION BAZAR. HOOGHLY",
+                    "line2": "NALIKUL.HARIPAL. NALIKUL",
+                    "pin": "712407"
+                },
+                "identifiers": {
+                    "gstin": "19AGZPD9661M1ZA",
+                    "store_code": "STR001",
+                    "state_code": "19",
+                    "state_name": "WEST BENGAL"
+                }
+            },
+            "invoice_details": {
+                "tax_invoice_no": "25000730057463",
+                "invoice_date": "10-12-2025",
+                "invoice_time": "17:22",
+                "due_date": null,
+                "order_type": "CASH",
+                "sales_executive": {
+                    "code": "205",
+                    "name": "ANUP KUNDU",
+                    "mobile": "9832283168"
+                },
+                "gst_area": "A022 NALIKUL",
+                "store_man": "205 ANUP KUNDU"
+            },
+            "document_references": {
+                "irn_no": "ce92d3811cc459dd8b5e395b3665c194c497953ae15c8858828908161559e2ed",
+                "ack_no": "182521003682596",
+                "ack_date": "11-12-2025"
+            }
+        },
+        "footer": {
+            "prepared_by": "TANMOY",
+            "checked_by": "PINTU",
+            "for": "S M DISTRIBUTORS",
+            "cr_days": 0,
+            "cash": "CASH",
+            "tray_no": "1057",
+            "print_time": "18:57",
+            "pc_bc": 0.0,
+            "cr_note_no": 0.0,
+            "db_note_no": 0.0,
+            "route": "R00",
+            "covers": null,
+            "c_s": "C/s"
+        },
+        "summary": {
+            "amount_in_words": "Five Thousand Three Hundred Ninety Six Rupees only",
+            "total_items": 11,
+            "total_quantity": 49,
+            "mrp_value": 7363.75,
+            "sub_total": 5586.01,
+            "discount_amount": 446.88,
+            "gst_summary": {
+                "5%": {
+                    "taxable": 5139.13,
+                    "cgst_amt": 128.48,
+                    "sgst_amt": 128.48,
+                    "total_tax_amt": 256.96
+                },
+                "12%": {
+                    "taxable": 0.0,
+                    "cgst_amt": 0.0,
+                    "sgst_amt": 0.0,
+                    "total_tax_amt": 0.0
+                },
+                "18%": {
+                    "taxable": 0.0,
+                    "cgst_amt": 0.0,
+                    "sgst_amt": 0.0,
+                    "total_tax_amt": 0.0
+                },
+                "28%": {
+                    "taxable": 0.0,
+                    "cgst_amt": 0.0,
+                    "sgst_amt": 0.0,
+                    "total_tax_amt": 0.0
+                }
+            },
+            "total_tax_amount": 256.96,
+            "grand_total": 5396.0,
+            "round_off": -0.1,
+            "sale_value": 5610.51,
+            "cash_discount_given": 446.88,
+            "scheme_discount_given": 24.5,
+            "route": "R00",
+            "print_time": "18:57",
+            "ack_no_and_date": "182521003682596 11-12-2025",
+            "checked_by": "PINTU",
+            "tray_no": "1057"
+        },
+        "tax_breakdown": {
+            "5_percent": {
+                "taxable_amount": 5139.13,
+                "sgst": {
+                    "percent": 2.5,
+                    "amount": 128.48
+                },
+                "cgst": {
+                    "percent": 2.5,
+                    "amount": 128.48
+                }
+            },
+            "12_percent": {
+                "taxable_amount": 0.0,
+                "sgst": {
+                    "percent": 6,
+                    "amount": 0.0
+                },
+                "cgst": {
+                    "percent": 6,
+                    "amount": 0.0
+                }
+            },
+            "18_percent": {
+                "taxable_amount": 0.0,
+                "sgst": {
+                    "percent": 9,
+                    "amount": 0.0
+                },
+                "cgst": {
+                    "percent": 9,
+                    "amount": 0.0
+                }
+            },
+            "28_percent": {
+                "taxable_amount": 0.0,
+                "sgst": {
+                    "percent": 14,
+                    "amount": 0.0
+                },
+                "cgst": {
+                    "percent": 14,
+                    "amount": 0.0
+                }
+            },
+            "0_percent": {
+                "taxable_amount": 0.0,
+                "sgst": {
+                    "percent": 0,
+                    "amount": 0.0
+                },
+                "cgst": {
+                    "percent": 0,
+                    "amount": 0.0
+                }
+            },
+            "tcs_tax": 0.0
+        },
+        "pending_bills": {
+            "headers": {
+                "bill_no": "Bill No.",
+                "bill_date": "Bill Date",
+                "os_amount": "O/S Amount",
+                "days": "Days"
+            },
+            "rows": [
+                {
+                    "bill_no": "0057463",
+                    "bill_date": "10-12-2025",
+                    "os_amount": 5396.0,
+                    "days": 0
+                }
+            ],
+            "total_bills": 1,
+            "total_os_amount": 5396.0
+        },
+        "_extraction_method": "dual_pass"
+    },
+    "items": [],
+    "metadata": {
+        "total_pages": 1,
+        "extraction_methods": [
+            "dual_pass"
+        ],
+        "page_summary": [
+            {
+                "page_number": 1,
+                "extraction_method": "dual_pass",
+                "items_count": 0,
+                "has_items": false
+            }
+        ],
+        "extraction_confidence": 0.95,
+        "document_type": "tax_invoice"
+    }
+}
